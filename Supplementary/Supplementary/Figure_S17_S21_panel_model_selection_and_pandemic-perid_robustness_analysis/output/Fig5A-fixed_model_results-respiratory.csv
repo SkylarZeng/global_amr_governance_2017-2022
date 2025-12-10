@@ -1,0 +1,16 @@
+Indicator,Model,Coefficient,Standard Errors,t value,P
+1.1 Strategic vision,Fixed effects,0.071,0.039261344,1.801648081,0.077289955
+1.2 Multi-sector engagement,Fixed effects,0.051,0.014868932,3.41957913,0.001213938
+1.3 Sustainability,Fixed effects,0,0.011969322,0.03551798,0.971800146
+1.4 Accountability,Fixed effects,-0.027,0.016625935,-1.628542603,0.109340446
+2.1 AMC surveillance system,Fixed effects,0.05,0.011727342,4.30033524,7.35E-05
+2.2 AMR surveillance system,Fixed effects,0.055,0.027340099,2.016351454,0.048843513
+2.3 Optimization of antimicrobial use,Fixed effects,-0.025,0.027721773,-0.892640337,0.376084972
+2.4 Professional education,Fixed effects,0.002,0.020991298,0.087652279,0.930483394
+2.5 Public awareness,Fixed effects,0.005,0.020322042,0.229170183,0.819618709
+2.6 Hygiene and prevention,Fixed effects,0.001,0.012180832,0.086365066,0.931501675
+2.7 Research innovation,Fixed effects,0.026,0.019014946,1.381481972,0.172927232
+3.1 Reporting,Fixed effects,-0.004,0.018891484,-0.202586952,0.840233586
+3.2 Policy adjustment,Fixed effects,-0.019,0.015396289,-1.249388668,0.21701257
+3.3 Effectiveness,Fixed effects,-0.009,0.037581016,-0.250541248,0.803137523
+COVID3,Fixed effects,0.004,0.003422541,1.307258219,0.196768124
