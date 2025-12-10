@@ -4,29 +4,42 @@
 
 ---
 
-## Folder Structure
+## Directory Structure
 
 ```
+Figure_4/
+│
+├── README.md
+│
 ├── code/
 │   ├── AMR_DID.do
 │   ├── AMR_DID_amrgbdAS.do
 │   ├── AMR_DID_amrgbdAT.do
 │   └── AMU_DID.do
+│
 ├── data/
 │   ├── treatment_AMR.dta
 │   ├── treatment_amrgbdAS.dta
 │   ├── treatment_amrgbdAT.dta
 │   └── treatment_AMU.dta
-├── output/
-│   ├── AMR_event_study_combined.gph / .png / .svg
-│   ├── amrgbdAS_event_study_combined.gph / .png / .svg
-│   ├── amrgbdAT_event_study_combined.gph / .png / .svg
-│   ├── AMU_event_study_combined.gph / .png / .svg
-│   ├── fig4A_final.pdf
-│   ├── fig4B_final.pdf
-│   ├── fig4C_final.pdf
-│   └── fig4D_final.pdf
-└── README.md
+│
+└── output/
+    ├── AMR_event_study_combined.gph
+    ├── AMR_event_study_combined.png
+    ├── AMR_event_study_combined.svg
+    ├── amrgbdAS_event_study_combined.gph
+    ├── amrgbdAS_event_study_combined.png
+    ├── amrgbdAS_event_study_combined.svg
+    ├── amrgbdAT_event_study_combined.gph
+    ├── amrgbdAT_event_study_combined.png
+    ├── amrgbdAT_event_study_combined.svg
+    ├── AMU_event_study_combined.gph
+    ├── AMU_event_study_combined.png
+    ├── AMU_event_study_combined.svg
+    ├── fig4A_final.pdf
+    ├── fig4B_final.pdf
+    ├── fig4C_final.pdf
+    └── fig4D_final.pdf
 ```
 ---
 
