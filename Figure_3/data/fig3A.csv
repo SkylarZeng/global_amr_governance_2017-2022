@@ -1,0 +1,3785 @@
+id,year,value,WHO_Region
+1,2000,85.70152903,African Region
+1,2001,85.56981256,African Region
+1,2002,85.51586267,African Region
+1,2003,85.36410744,African Region
+1,2004,85.06037764,African Region
+1,2005,84.90748281,African Region
+1,2006,84.68742708,African Region
+1,2007,84.08892971,African Region
+1,2008,83.52126956,African Region
+1,2009,82.93973347,African Region
+1,2010,82.43073388,African Region
+1,2011,81.70910443,African Region
+1,2012,81.28742983,African Region
+1,2013,80.68759446,African Region
+1,2014,80.23039441,African Region
+1,2015,79.53139748,African Region
+1,2016,79.14193343,African Region
+1,2017,78.57866833,African Region
+1,2018,78.43460939,African Region
+1,2019,77.99412781,African Region
+1,2020,77.73258456,African Region
+1,2021,77.37143858,African Region
+2,2000,97.04348794,African Region
+2,2001,96.8858663,African Region
+2,2002,96.80518848,African Region
+2,2003,96.55033806,African Region
+2,2004,96.28133864,African Region
+2,2005,96.10596897,African Region
+2,2006,95.83652745,African Region
+2,2007,95.49923636,African Region
+2,2008,95.15689552,African Region
+2,2009,94.9767512,African Region
+2,2010,94.6159503,African Region
+2,2011,93.91931595,African Region
+2,2012,93.46974653,African Region
+2,2013,93.18916,African Region
+2,2014,92.81615193,African Region
+2,2015,92.44909843,African Region
+2,2016,92.11248504,African Region
+2,2017,91.77427075,African Region
+2,2018,91.53175248,African Region
+2,2019,91.211536,African Region
+2,2020,90.91055516,African Region
+2,2021,90.60020938,African Region
+3,2000,86.35613915,European Region
+3,2001,86.25936099,European Region
+3,2002,86.08022467,European Region
+3,2003,85.57035287,European Region
+3,2004,85.30605481,European Region
+3,2005,84.87430306,European Region
+3,2006,84.19389853,European Region
+3,2007,83.18219161,European Region
+3,2008,82.33553532,European Region
+3,2009,81.48994225,European Region
+3,2010,80.72543004,European Region
+3,2011,79.21857185,European Region
+3,2012,78.37142512,European Region
+3,2013,78.43410161,European Region
+3,2014,77.83670533,European Region
+3,2015,77.40405029,European Region
+3,2016,77.37307369,European Region
+3,2017,76.37277913,European Region
+3,2018,75.9862904,European Region
+3,2019,75.37831872,European Region
+3,2020,74.81836584,European Region
+3,2021,74.1877341,European Region
+4,2000,81.29191032,African Region
+4,2001,80.99150671,African Region
+4,2002,80.68234148,African Region
+4,2003,80.33821679,African Region
+4,2004,79.90282914,African Region
+4,2005,79.08309259,African Region
+4,2006,78.48050784,African Region
+4,2007,77.82316486,African Region
+4,2008,76.97131113,African Region
+4,2009,76.69863974,African Region
+4,2010,76.16332871,African Region
+4,2011,74.76396309,African Region
+4,2012,74.32593888,African Region
+4,2013,73.77329917,African Region
+4,2014,73.17296762,African Region
+4,2015,72.3324062,African Region
+4,2016,71.98759875,African Region
+4,2017,71.31439968,African Region
+4,2018,70.94255763,African Region
+4,2019,70.34596519,African Region
+4,2020,69.76025044,African Region
+4,2021,69.18686728,African Region
+5,2000,82.03100868,Western Pacific Region
+5,2001,81.28480627,Western Pacific Region
+5,2002,81.51577528,Western Pacific Region
+5,2003,81.70299399,Western Pacific Region
+5,2004,80.47520914,Western Pacific Region
+5,2005,80.6438103,Western Pacific Region
+5,2006,79.91379556,Western Pacific Region
+5,2007,79.51868925,Western Pacific Region
+5,2008,75.2009299,Western Pacific Region
+5,2009,70.26662531,Western Pacific Region
+5,2010,70.04986682,Western Pacific Region
+5,2011,67.95056035,Western Pacific Region
+5,2012,69.17634409,Western Pacific Region
+5,2013,71.20476789,Western Pacific Region
+5,2014,77.92331438,Western Pacific Region
+5,2015,74.54871817,Western Pacific Region
+5,2016,75.77941645,Western Pacific Region
+5,2017,75.50417351,Western Pacific Region
+5,2018,76.77670274,Western Pacific Region
+5,2019,76.8823659,Western Pacific Region
+5,2020,76.81341583,Western Pacific Region
+5,2021,77.08574619,Western Pacific Region
+6,2000,97.31219194,African Region
+6,2001,97.3054781,African Region
+6,2002,97.41038734,African Region
+6,2003,97.40472962,African Region
+6,2004,97.32301579,African Region
+6,2005,97.05745154,African Region
+6,2006,96.98667891,African Region
+6,2007,96.81905022,African Region
+6,2008,96.5703624,African Region
+6,2009,96.09739788,African Region
+6,2010,95.59327632,African Region
+6,2011,94.77717318,African Region
+6,2012,94.32223427,African Region
+6,2013,93.64106095,African Region
+6,2014,92.79003988,African Region
+6,2015,92.01093843,African Region
+6,2016,91.49004604,African Region
+6,2017,90.82614673,African Region
+6,2018,90.7212108,African Region
+6,2019,90.57538334,African Region
+6,2020,90.45054966,African Region
+6,2021,90.22147565,African Region
+7,2000,88.15007547,Region of the Americas
+7,2001,88.27461097,Region of the Americas
+7,2002,88.15913694,Region of the Americas
+7,2003,87.80016191,Region of the Americas
+7,2004,87.4877982,Region of the Americas
+7,2005,87.14474752,Region of the Americas
+7,2006,86.75580959,Region of the Americas
+7,2007,86.29877591,Region of the Americas
+7,2008,85.75042572,Region of the Americas
+7,2009,85.19990681,Region of the Americas
+7,2010,84.41598705,Region of the Americas
+7,2011,83.78931002,Region of the Americas
+7,2012,83.25582401,Region of the Americas
+7,2013,82.14804123,Region of the Americas
+7,2014,81.74527183,Region of the Americas
+7,2015,81.41010622,Region of the Americas
+7,2016,80.60586077,Region of the Americas
+7,2017,80.46297929,Region of the Americas
+7,2018,80.21837018,Region of the Americas
+7,2019,79.96759749,Region of the Americas
+7,2020,79.5279312,Region of the Americas
+7,2021,79.17447197,Region of the Americas
+8,2000,86.42532384,European Region
+8,2001,86.9753941,European Region
+8,2002,89.20105379,European Region
+8,2003,88.61665411,European Region
+8,2004,88.10788528,European Region
+8,2005,88.60363018,European Region
+8,2006,88.83314301,European Region
+8,2007,87.16497939,European Region
+8,2008,88.47364256,European Region
+8,2009,89.30531759,European Region
+8,2010,90.56082053,European Region
+8,2011,89.54088648,European Region
+8,2012,89.53349833,European Region
+8,2013,87.53436377,European Region
+8,2014,87.01469191,European Region
+8,2015,86.02435795,European Region
+8,2016,86.01473429,European Region
+8,2017,85.61644325,European Region
+8,2018,86.19838325,European Region
+8,2019,86.57461508,European Region
+8,2020,86.80220529,European Region
+8,2021,86.94023589,European Region
+9,2000,85.23679679,European Region
+9,2001,84.20641599,European Region
+9,2002,83.49170316,European Region
+9,2003,82.48148837,European Region
+9,2004,81.38422293,European Region
+9,2005,79.99116768,European Region
+9,2006,78.64461689,European Region
+9,2007,77.39414675,European Region
+9,2008,76.7123493,European Region
+9,2009,76.48025834,European Region
+9,2010,76.28251655,European Region
+9,2011,75.61854123,European Region
+9,2012,75.43250156,European Region
+9,2013,74.56690001,European Region
+9,2014,73.74407983,European Region
+9,2015,73.22355045,European Region
+9,2016,73.3078315,European Region
+9,2017,73.43631815,European Region
+9,2018,73.34318195,European Region
+9,2019,73.30169867,European Region
+9,2020,73.18527411,European Region
+9,2021,73.08866819,European Region
+11,2000,97.50777314,African Region
+11,2001,97.50240408,African Region
+11,2002,97.49701582,African Region
+11,2003,97.49162071,African Region
+11,2004,97.48620668,African Region
+11,2005,97.39830456,African Region
+11,2006,97.31038375,African Region
+11,2007,97.05748825,African Region
+11,2008,96.88706054,African Region
+11,2009,96.7991063,African Region
+11,2010,96.62866251,African Region
+11,2011,96.29323847,African Region
+11,2012,96.04029229,African Region
+11,2013,96.03477354,African Region
+11,2014,95.78179453,African Region
+11,2015,95.11638766,African Region
+11,2016,95.02833495,African Region
+11,2017,94.69282135,African Region
+11,2018,94.60473706,African Region
+11,2019,94.38176484,African Region
+11,2020,94.1587774,African Region
+11,2021,93.93577651,African Region
+12,2000,76.46031137,Western Pacific Region
+12,2001,76.91327546,Western Pacific Region
+12,2002,78.15898306,Western Pacific Region
+12,2003,78.84848417,Western Pacific Region
+12,2004,79.93976968,Western Pacific Region
+12,2005,79.77858326,Western Pacific Region
+12,2006,79.24892643,Western Pacific Region
+12,2007,80.0035773,Western Pacific Region
+12,2008,79.83102509,Western Pacific Region
+12,2009,79.99518485,Western Pacific Region
+12,2010,79.2024858,Western Pacific Region
+12,2011,79.4283907,Western Pacific Region
+12,2012,78.77265365,Western Pacific Region
+12,2013,79.30068093,Western Pacific Region
+12,2014,80.84966058,Western Pacific Region
+12,2015,80.60316774,Western Pacific Region
+12,2016,80.98838413,Western Pacific Region
+12,2017,81.49396651,Western Pacific Region
+12,2018,81.82688676,Western Pacific Region
+12,2019,81.37616936,Western Pacific Region
+12,2020,81.4729963,Western Pacific Region
+12,2021,81.30859904,Western Pacific Region
+13,2000,73.72757738,European Region
+13,2001,72.91035279,European Region
+13,2002,68.36390475,European Region
+13,2003,67.94694789,European Region
+13,2004,67.0649771,European Region
+13,2005,65.32047097,European Region
+13,2006,64.06413313,European Region
+13,2007,61.50954672,European Region
+13,2008,62.32986537,European Region
+13,2009,59.81763533,European Region
+13,2010,63.92359001,European Region
+13,2011,62.82165392,European Region
+13,2012,68.15164567,European Region
+13,2013,65.96836289,European Region
+13,2014,61.09939441,European Region
+13,2015,59.14724359,European Region
+13,2016,60.79993003,European Region
+13,2017,60.47119492,European Region
+13,2018,57.70665142,European Region
+13,2019,57.66684377,European Region
+13,2020,57.54388042,European Region
+13,2021,57.57210162,European Region
+14,2000,88.82295577,Region of the Americas
+14,2001,89.48445682,Region of the Americas
+14,2002,91.54798359,Region of the Americas
+14,2003,88.42186233,Region of the Americas
+14,2004,88.83932814,Region of the Americas
+14,2005,88.26450554,Region of the Americas
+14,2006,87.68720647,Region of the Americas
+14,2007,86.49906584,Region of the Americas
+14,2008,86.55710099,Region of the Americas
+14,2009,86.96835454,Region of the Americas
+14,2010,85.75725883,Region of the Americas
+14,2011,84.91330375,Region of the Americas
+14,2012,85.06210269,Region of the Americas
+14,2013,84.71308531,Region of the Americas
+14,2014,84.52851417,Region of the Americas
+14,2015,83.52220426,Region of the Americas
+14,2016,83.33666789,Region of the Americas
+14,2017,83.48256237,Region of the Americas
+14,2018,84.7197053,Region of the Americas
+14,2019,84.69896784,Region of the Americas
+14,2020,84.65856921,Region of the Americas
+14,2021,84.66164668,Region of the Americas
+16,2000,92.02582068,Western Pacific Region
+16,2001,91.91133643,Western Pacific Region
+16,2002,91.71419718,Western Pacific Region
+16,2003,91.59936368,Western Pacific Region
+16,2004,91.40187311,Western Pacific Region
+16,2005,91.28668616,Western Pacific Region
+16,2006,91.08883998,Western Pacific Region
+16,2007,91.05577608,Western Pacific Region
+16,2008,90.77508893,Western Pacific Region
+16,2009,90.65213618,Western Pacific Region
+16,2010,90.52878306,Western Pacific Region
+16,2011,90.21743398,Western Pacific Region
+16,2012,89.98214882,Western Pacific Region
+16,2013,89.88445044,Western Pacific Region
+16,2014,89.58019498,Western Pacific Region
+16,2015,89.38939774,Western Pacific Region
+16,2016,89.19843041,Western Pacific Region
+16,2017,88.9157457,Western Pacific Region
+16,2018,88.79783035,Western Pacific Region
+16,2019,88.59040432,Western Pacific Region
+16,2020,88.42250906,Western Pacific Region
+16,2021,88.23716389,Western Pacific Region
+17,2000,91.5754163,South-East Asia Region
+17,2001,91.36584697,South-East Asia Region
+17,2002,91.15142082,South-East Asia Region
+17,2003,90.78974448,South-East Asia Region
+17,2004,90.48545762,South-East Asia Region
+17,2005,90.25642498,South-East Asia Region
+17,2006,89.81043323,South-East Asia Region
+17,2007,89.38167429,South-East Asia Region
+17,2008,88.96940618,South-East Asia Region
+17,2009,88.71956003,South-East Asia Region
+17,2010,88.27928914,South-East Asia Region
+17,2011,87.37947323,South-East Asia Region
+17,2012,86.81750418,South-East Asia Region
+17,2013,86.12722342,South-East Asia Region
+17,2014,85.54196159,South-East Asia Region
+17,2015,85.36870293,South-East Asia Region
+17,2016,85.92288099,South-East Asia Region
+17,2017,86.01189114,South-East Asia Region
+17,2018,85.81999067,South-East Asia Region
+17,2019,85.6045248,South-East Asia Region
+17,2020,85.43614645,South-East Asia Region
+17,2021,85.1330805,South-East Asia Region
+19,2000,98.23071376,African Region
+19,2001,98.22702513,African Region
+19,2002,98.30112701,African Region
+19,2003,98.29253713,African Region
+19,2004,98.20171988,African Region
+19,2005,98.19363238,African Region
+19,2006,98.10174672,African Region
+19,2007,97.92823081,African Region
+19,2008,97.67511993,African Region
+19,2009,97.25441451,African Region
+19,2010,96.91614994,African Region
+19,2011,96.16403965,African Region
+19,2012,95.66062774,African Region
+19,2013,95.14557928,African Region
+19,2014,94.3297093,African Region
+19,2015,93.33892943,African Region
+19,2016,93.13351733,African Region
+19,2017,92.67030549,African Region
+19,2018,92.40814878,African Region
+19,2019,92.03486401,African Region
+19,2020,91.66167479,African Region
+19,2021,91.29614361,African Region
+20,2000,98.4046297,African Region
+20,2001,98.39804973,African Region
+20,2002,98.47394237,African Region
+20,2003,98.46733739,African Region
+20,2004,98.37958988,African Region
+20,2005,98.37580956,African Region
+20,2006,98.28478757,African Region
+20,2007,98.1157365,African Region
+20,2008,97.86243193,African Region
+20,2009,97.52616339,African Region
+20,2010,97.10793784,African Region
+20,2011,96.35891176,African Region
+20,2012,95.85773291,African Region
+20,2013,95.35681397,African Region
+20,2014,94.59864164,African Region
+20,2015,93.68988892,African Region
+20,2016,93.19208298,African Region
+20,2017,92.77380676,African Region
+20,2018,92.68508079,African Region
+20,2019,92.59459541,African Region
+20,2020,92.50581559,African Region
+20,2021,92.41700865,African Region
+21,2000,74.88192692,European Region
+21,2001,75.48182217,European Region
+21,2002,75.57980169,European Region
+21,2003,75.46429956,European Region
+21,2004,74.91097086,European Region
+21,2005,74.76085153,European Region
+21,2006,75.76817969,European Region
+21,2007,74.26175219,European Region
+21,2008,74.63718901,European Region
+21,2009,75.84014741,European Region
+21,2010,76.50737588,European Region
+21,2011,74.10818744,European Region
+21,2012,74.71435837,European Region
+21,2013,73.25429909,European Region
+21,2014,71.0752865,European Region
+21,2015,70.08125078,European Region
+21,2016,70.70473975,European Region
+21,2017,71.29443826,European Region
+21,2018,71.63923306,European Region
+21,2019,71.8358257,European Region
+21,2020,71.56169957,European Region
+21,2021,71.30741376,European Region
+22,2000,89.48821303,South-East Asia Region
+22,2001,89.03182127,South-East Asia Region
+22,2002,88.71527922,South-East Asia Region
+22,2003,88.39097979,South-East Asia Region
+22,2004,88.14857578,South-East Asia Region
+22,2005,88.25008993,South-East Asia Region
+22,2006,88.69093199,South-East Asia Region
+22,2007,89.68522692,South-East Asia Region
+22,2008,91.32536376,South-East Asia Region
+22,2009,91.78171664,South-East Asia Region
+22,2010,91.71140195,South-East Asia Region
+22,2011,92.05883962,South-East Asia Region
+22,2012,91.75901646,South-East Asia Region
+22,2013,91.35119409,South-East Asia Region
+22,2014,91.18573138,South-East Asia Region
+22,2015,90.36215677,South-East Asia Region
+22,2016,89.87225076,South-East Asia Region
+22,2017,90.024877,South-East Asia Region
+22,2018,90.20511871,South-East Asia Region
+22,2019,90.23045312,South-East Asia Region
+22,2020,90.44982512,South-East Asia Region
+22,2021,90.2404652,South-East Asia Region
+23,2000,93.92606284,African Region
+23,2001,93.8197532,African Region
+23,2002,93.7280679,African Region
+23,2003,93.63648229,African Region
+23,2004,93.37886705,African Region
+23,2005,93.26588904,African Region
+23,2006,92.88491136,African Region
+23,2007,92.58241834,African Region
+23,2008,92.26093952,African Region
+23,2009,92.04270321,African Region
+23,2010,91.65459476,African Region
+23,2011,91.2956923,African Region
+23,2012,90.9594528,African Region
+23,2013,90.7016086,African Region
+23,2014,90.45632239,African Region
+23,2015,90.14484133,African Region
+23,2016,89.77676744,African Region
+23,2017,89.54969099,African Region
+23,2018,89.34684413,African Region
+23,2019,89.11945099,African Region
+23,2020,88.88075993,African Region
+23,2021,88.65693755,African Region
+24,2000,97.72912209,African Region
+24,2001,97.88956005,African Region
+24,2002,97.72003173,African Region
+24,2003,97.55065182,African Region
+24,2004,97.29865972,African Region
+24,2005,97.21230546,African Region
+24,2006,96.95016351,African Region
+24,2007,96.70570001,African Region
+24,2008,96.44292745,African Region
+24,2009,96.20422751,African Region
+24,2010,95.92842979,African Region
+24,2011,95.42834493,African Region
+24,2012,95.20578021,African Region
+24,2013,94.81745501,African Region
+24,2014,94.43417638,African Region
+24,2015,94.1087875,African Region
+24,2016,93.86565687,African Region
+24,2017,93.29233579,African Region
+24,2018,93.1312111,African Region
+24,2019,92.64108563,African Region
+24,2020,92.41283835,African Region
+24,2021,91.9653504,African Region
+25,2000,94.62196413,Region of the Americas
+25,2001,94.53500355,Region of the Americas
+25,2002,94.40808915,Region of the Americas
+25,2003,94.20423022,Region of the Americas
+25,2004,94.0204818,Region of the Americas
+25,2005,93.93463212,Region of the Americas
+25,2006,93.73865241,Region of the Americas
+25,2007,93.54253989,Region of the Americas
+25,2008,93.29444416,Region of the Americas
+25,2009,93.20311075,Region of the Americas
+25,2010,92.96841363,Region of the Americas
+25,2011,92.65834107,Region of the Americas
+25,2012,92.56134685,Region of the Americas
+25,2013,92.54408421,Region of the Americas
+25,2014,92.30158694,Region of the Americas
+25,2015,92.20011657,Region of the Americas
+25,2016,91.91477124,Region of the Americas
+25,2017,91.52281158,Region of the Americas
+25,2018,91.32982253,Region of the Americas
+25,2019,91.11130807,Region of the Americas
+25,2020,90.91085631,Region of the Americas
+25,2021,90.70610303,Region of the Americas
+26,2000,93.09817391,Region of the Americas
+26,2001,92.63145911,Region of the Americas
+26,2002,92.45317685,Region of the Americas
+26,2003,92.31225383,Region of the Americas
+26,2004,91.84137733,Region of the Americas
+26,2005,91.61772121,Region of the Americas
+26,2006,91.39393792,Region of the Americas
+26,2007,90.85456251,Region of the Americas
+26,2008,90.35021466,Region of the Americas
+26,2009,90.97042214,Region of the Americas
+26,2010,90.3278882,Region of the Americas
+26,2011,90.74229749,Region of the Americas
+26,2012,91.01666681,Region of the Americas
+26,2013,90.1549758,Region of the Americas
+26,2014,89.79141087,Region of the Americas
+26,2015,89.94121097,Region of the Americas
+26,2016,89.11229041,Region of the Americas
+26,2017,89.8718559,Region of the Americas
+26,2018,89.43896175,Region of the Americas
+26,2019,89.02572226,Region of the Americas
+26,2020,89.08120762,Region of the Americas
+26,2021,88.62724514,Region of the Americas
+27,2000,90.53777697,European Region
+27,2001,90.05102041,European Region
+27,2002,89.85128232,European Region
+27,2003,89.91131962,European Region
+27,2004,89.92442794,European Region
+27,2005,89.60623646,European Region
+27,2006,88.98603198,European Region
+27,2007,88.65472691,European Region
+27,2008,88.88225545,European Region
+27,2009,89.4224876,European Region
+27,2010,89.40602813,European Region
+27,2011,88.72921057,European Region
+27,2012,88.45527039,European Region
+27,2013,89.29679984,European Region
+27,2014,89.10741969,European Region
+27,2015,89.63489549,European Region
+27,2016,90.35532782,European Region
+27,2017,91.00807352,European Region
+27,2018,91.53798314,European Region
+27,2019,91.45864788,European Region
+27,2020,91.15933245,European Region
+27,2021,90.92036323,European Region
+29,2000,87.1362045,European Region
+29,2001,86.89530069,European Region
+29,2002,86.54382893,European Region
+29,2003,85.94969199,European Region
+29,2004,85.42779894,European Region
+29,2005,84.67435554,European Region
+29,2006,84.23359082,European Region
+29,2007,83.6901699,European Region
+29,2008,83.24655993,European Region
+29,2009,83.04448145,European Region
+29,2010,82.84724433,European Region
+29,2011,82.0708847,European Region
+29,2012,81.95984034,European Region
+29,2013,82.18262494,European Region
+29,2014,81.55088182,European Region
+29,2015,81.68970959,European Region
+29,2016,81.66840197,European Region
+29,2017,81.30644534,European Region
+29,2018,80.92644014,European Region
+29,2019,80.77541362,European Region
+29,2020,80.41595397,European Region
+29,2021,80.07482396,European Region
+30,2000,90.44881204,Eastern Mediterranean Region
+30,2001,87.77039804,Eastern Mediterranean Region
+30,2002,87.90715802,Eastern Mediterranean Region
+30,2003,88.07728698,Eastern Mediterranean Region
+30,2004,90.00155517,Eastern Mediterranean Region
+30,2005,86.64758315,Eastern Mediterranean Region
+30,2006,88.27747647,Eastern Mediterranean Region
+30,2007,87.26784759,Eastern Mediterranean Region
+30,2008,87.21426844,Eastern Mediterranean Region
+30,2009,87.80608853,Eastern Mediterranean Region
+30,2010,89.0983834,Eastern Mediterranean Region
+30,2011,87.74295251,Eastern Mediterranean Region
+30,2012,88.17823588,Eastern Mediterranean Region
+30,2013,87.5938874,Eastern Mediterranean Region
+30,2014,88.07199494,Eastern Mediterranean Region
+30,2015,87.58498071,Eastern Mediterranean Region
+30,2016,87.67067167,Eastern Mediterranean Region
+30,2017,86.59435491,Eastern Mediterranean Region
+30,2018,88.4973217,Eastern Mediterranean Region
+30,2019,88.68667293,Eastern Mediterranean Region
+30,2020,88.53067272,Eastern Mediterranean Region
+30,2021,88.71827124,Eastern Mediterranean Region
+31,2000,85.48000538,European Region
+31,2001,84.95510246,European Region
+31,2002,84.59030249,European Region
+31,2003,83.89613178,European Region
+31,2004,83.79231809,European Region
+31,2005,83.10072286,European Region
+31,2006,82.65505019,European Region
+31,2007,82.29358912,European Region
+31,2008,81.85409489,European Region
+31,2009,81.33377587,European Region
+31,2010,80.65090379,European Region
+31,2011,79.69375197,European Region
+31,2012,79.26622949,European Region
+31,2013,79.64638826,European Region
+31,2014,79.35931658,European Region
+31,2015,79.82904779,European Region
+31,2016,79.70887095,European Region
+31,2017,79.66386589,European Region
+31,2018,80.05593197,European Region
+31,2019,80.19419047,European Region
+31,2020,80.34767034,European Region
+31,2021,80.48279258,European Region
+32,2000,98.37441942,African Region
+32,2001,98.36805091,African Region
+32,2002,98.44423239,African Region
+32,2003,98.43788875,African Region
+32,2004,98.34909854,African Region
+32,2005,98.34271315,African Region
+32,2006,98.25381769,African Region
+32,2007,98.08240974,African Region
+32,2008,97.74597645,African Region
+32,2009,97.49199738,African Region
+32,2010,97.07303096,African Region
+32,2011,96.32411792,African Region
+32,2012,95.74017161,African Region
+32,2013,95.15617172,African Region
+32,2014,94.40716949,African Region
+32,2015,93.41070945,African Region
+32,2016,93.07401786,African Region
+32,2017,92.73731957,African Region
+32,2018,92.56552797,African Region
+32,2019,92.3928139,African Region
+32,2020,92.22143081,African Region
+32,2021,92.05000821,African Region
+33,2000,91.46819935,Eastern Mediterranean Region
+33,2001,91.28855608,Eastern Mediterranean Region
+33,2002,91.08875849,Eastern Mediterranean Region
+33,2003,90.89732252,Eastern Mediterranean Region
+33,2004,90.7014411,Eastern Mediterranean Region
+33,2005,90.25211378,Eastern Mediterranean Region
+33,2006,89.78528819,Eastern Mediterranean Region
+33,2007,89.51443815,Eastern Mediterranean Region
+33,2008,89.0623387,Eastern Mediterranean Region
+33,2009,88.68682981,Eastern Mediterranean Region
+33,2010,88.01555818,Eastern Mediterranean Region
+33,2011,86.47150013,Eastern Mediterranean Region
+33,2012,85.88520228,Eastern Mediterranean Region
+33,2013,84.92739946,Eastern Mediterranean Region
+33,2014,85.30251679,Eastern Mediterranean Region
+33,2015,84.01465,Eastern Mediterranean Region
+33,2016,84.89072102,Eastern Mediterranean Region
+33,2017,84.62796233,Eastern Mediterranean Region
+33,2018,84.30213086,Eastern Mediterranean Region
+33,2019,83.75896997,Eastern Mediterranean Region
+33,2020,83.19096785,Eastern Mediterranean Region
+33,2021,82.80819764,Eastern Mediterranean Region
+34,2000,87.69716676,European Region
+34,2001,87.17955593,European Region
+34,2002,88.03371933,European Region
+34,2003,87.59002023,European Region
+34,2004,87.74329674,European Region
+34,2005,86.35790734,European Region
+34,2006,87.4434721,European Region
+34,2007,86.97984173,European Region
+34,2008,86.73649279,European Region
+34,2009,86.48951511,European Region
+34,2010,86.98961256,European Region
+34,2011,86.53180866,European Region
+34,2012,87.17817352,European Region
+34,2013,85.89401212,European Region
+34,2014,85.01124706,European Region
+34,2015,83.96969923,European Region
+34,2016,84.91170339,European Region
+34,2017,84.54800807,European Region
+34,2018,84.4921515,European Region
+34,2019,84.3573361,European Region
+34,2020,84.22708265,European Region
+34,2021,84.06588135,European Region
+35,2000,81.55674384,European Region
+35,2001,81.68045017,European Region
+35,2002,80.80098,European Region
+35,2003,79.82567503,European Region
+35,2004,76.70226113,European Region
+35,2005,76.54026297,European Region
+35,2006,76.25745139,European Region
+35,2007,73.59364319,European Region
+35,2008,71.90288199,European Region
+35,2009,77.76151156,European Region
+35,2010,77.75105028,European Region
+35,2011,76.9220657,European Region
+35,2012,78.11612621,European Region
+35,2013,78.50417174,European Region
+35,2014,77.20694223,European Region
+35,2015,75.89979576,European Region
+35,2016,76.46716417,European Region
+35,2017,77.15060136,European Region
+35,2018,76.14182575,European Region
+35,2019,75.65302548,European Region
+35,2020,75.67461704,European Region
+35,2021,75.6289436,European Region
+36,2000,71.33377811,European Region
+36,2001,70.78971941,European Region
+36,2002,68.47070874,European Region
+36,2003,69.04018414,European Region
+36,2004,69.519548,European Region
+36,2005,68.22027075,European Region
+36,2006,71.26126047,European Region
+36,2007,69.27825095,European Region
+36,2008,67.53013181,European Region
+36,2009,70.30788759,European Region
+36,2010,73.98130681,European Region
+36,2011,74.13975376,European Region
+36,2012,75.40063647,European Region
+36,2013,76.26962995,European Region
+36,2014,75.68994492,European Region
+36,2015,76.57321201,European Region
+36,2016,76.41068351,European Region
+36,2017,77.66925039,European Region
+36,2018,76.89340314,European Region
+36,2019,76.25436574,European Region
+36,2020,75.84908024,European Region
+36,2021,75.86980025,European Region
+37,2000,95.32402211,African Region
+37,2001,95.31303486,African Region
+37,2002,95.21943986,African Region
+37,2003,95.2083708,African Region
+37,2004,95.11473446,African Region
+37,2005,95.02107081,African Region
+37,2006,94.76231821,African Region
+37,2007,94.75093258,African Region
+37,2008,94.4916804,African Region
+37,2009,94.31494184,African Region
+37,2010,94.13858501,African Region
+37,2011,93.71379385,African Region
+37,2012,93.45464158,African Region
+37,2013,93.19501783,African Region
+37,2014,93.01923964,African Region
+37,2015,92.67528228,African Region
+37,2016,92.41630117,African Region
+37,2017,91.90641768,African Region
+37,2018,91.72467412,African Region
+37,2019,91.27056732,African Region
+37,2020,90.98506416,African Region
+37,2021,90.57676128,African Region
+38,2000,97.84159951,African Region
+38,2001,97.74905356,African Region
+38,2002,97.73900497,African Region
+38,2003,97.64643621,African Region
+38,2004,97.47132077,African Region
+38,2005,97.46112162,African Region
+38,2006,97.28591517,African Region
+38,2007,97.02815914,African Region
+38,2008,96.93531107,African Region
+38,2009,96.92489527,African Region
+38,2010,96.7494579,African Region
+38,2011,96.40900412,African Region
+38,2012,96.23345718,African Region
+38,2013,95.89289327,African Region
+38,2014,95.55227386,African Region
+38,2015,95.21159866,African Region
+38,2016,94.95334826,African Region
+38,2017,94.69504149,African Region
+38,2018,94.51915894,African Region
+38,2019,94.284028,African Region
+38,2020,94.04883981,African Region
+38,2021,93.81359406,African Region
+39,2000,96.97881615,African Region
+39,2001,96.80553996,African Region
+39,2002,96.71452097,African Region
+39,2003,96.62367255,African Region
+39,2004,96.45030503,African Region
+39,2005,96.35721249,African Region
+39,2006,96.10038688,African Region
+39,2007,96.17553981,African Region
+39,2008,96.08215114,African Region
+39,2009,96.15787787,African Region
+39,2010,96.12923096,African Region
+39,2011,95.85365944,African Region
+39,2012,95.49610475,African Region
+39,2013,95.55142859,African Region
+39,2014,95.44224393,African Region
+39,2015,94.18395294,African Region
+39,2016,93.79794182,African Region
+39,2017,94.15756167,African Region
+39,2018,94.07081203,African Region
+39,2019,93.93349823,African Region
+39,2020,93.79602946,African Region
+39,2021,93.65406651,African Region
+40,2000,73.51146182,European Region
+40,2001,72.52763915,European Region
+40,2002,71.42337032,European Region
+40,2003,71.61210171,European Region
+40,2004,72.37799406,European Region
+40,2005,71.26678746,European Region
+40,2006,72.03131049,European Region
+40,2007,70.77462617,European Region
+40,2008,70.733372,European Region
+40,2009,70.80725504,European Region
+40,2010,72.03911823,European Region
+40,2011,71.64771789,European Region
+40,2012,73.32583249,European Region
+40,2013,72.81397575,European Region
+40,2014,72.13320226,European Region
+40,2015,71.94531761,European Region
+40,2016,72.70968849,European Region
+40,2017,73.31901831,European Region
+40,2018,73.31016406,European Region
+40,2019,73.73488518,European Region
+40,2020,72.95667922,European Region
+40,2021,72.97672148,European Region
+41,2000,91.30912902,European Region
+41,2001,90.63828137,European Region
+41,2002,91.02680344,European Region
+41,2003,92.33903612,European Region
+41,2004,91.6514561,European Region
+41,2005,90.40777068,European Region
+41,2006,91.85713291,European Region
+41,2007,91.13590858,European Region
+41,2008,91.35965216,European Region
+41,2009,92.11056293,European Region
+41,2010,91.92627886,European Region
+41,2011,91.50644439,European Region
+41,2012,91.23603844,European Region
+41,2013,91.63350017,European Region
+41,2014,90.85360126,European Region
+41,2015,90.23893739,European Region
+41,2016,90.40783419,European Region
+41,2017,89.5546073,European Region
+41,2018,89.645232,European Region
+41,2019,90.60511115,European Region
+41,2020,90.90414196,European Region
+41,2021,90.8765563,European Region
+42,2000,86.21964425,South-East Asia Region
+42,2001,86.01280298,South-East Asia Region
+42,2002,85.47553235,South-East Asia Region
+42,2003,85.10302575,South-East Asia Region
+42,2004,84.7303635,South-East Asia Region
+42,2005,84.29873508,South-East Asia Region
+42,2006,84.41363024,South-East Asia Region
+42,2007,83.89462536,South-East Asia Region
+42,2008,83.12629553,South-East Asia Region
+42,2009,83.44682938,South-East Asia Region
+42,2010,82.88900812,South-East Asia Region
+42,2011,82.03130252,South-East Asia Region
+42,2012,81.33129538,South-East Asia Region
+42,2013,80.78278469,South-East Asia Region
+42,2014,80.05608368,South-East Asia Region
+42,2015,80.26274954,South-East Asia Region
+42,2016,79.87411175,South-East Asia Region
+42,2017,79.23769063,South-East Asia Region
+42,2018,78.9262887,South-East Asia Region
+42,2019,78.50782715,South-East Asia Region
+42,2020,78.1235364,South-East Asia Region
+42,2021,77.69446242,South-East Asia Region
+43,2000,87.59981835,European Region
+43,2001,88.17388308,European Region
+43,2002,88.108519,European Region
+43,2003,87.33119778,European Region
+43,2004,87.46870807,European Region
+43,2005,85.79088607,European Region
+43,2006,86.83343956,European Region
+43,2007,85.90967425,European Region
+43,2008,82.58008758,European Region
+43,2009,81.50575401,European Region
+43,2010,82.5864693,European Region
+43,2011,83.40872518,European Region
+43,2012,83.75425191,European Region
+43,2013,82.94024856,European Region
+43,2014,85.88224501,European Region
+43,2015,85.69766363,European Region
+43,2016,85.77755336,European Region
+43,2017,86.01390672,European Region
+43,2018,85.72938725,European Region
+43,2019,85.78170546,European Region
+43,2020,85.80795042,European Region
+43,2021,85.69736089,European Region
+44,2000,85.91122409,Region of the Americas
+44,2001,85.28792492,Region of the Americas
+44,2002,85.8012964,Region of the Americas
+44,2003,84.89394588,Region of the Americas
+44,2004,84.37315414,Region of the Americas
+44,2005,84.55101456,Region of the Americas
+44,2006,86.03762845,Region of the Americas
+44,2007,84.9880126,Region of the Americas
+44,2008,85.83534338,Region of the Americas
+44,2009,82.95012988,Region of the Americas
+44,2010,84.59644721,Region of the Americas
+44,2011,83.36610413,Region of the Americas
+44,2012,81.26071558,Region of the Americas
+44,2013,81.85218738,Region of the Americas
+44,2014,83.50147874,Region of the Americas
+44,2015,82.2443922,Region of the Americas
+44,2016,81.72951442,Region of the Americas
+44,2017,82.36924907,Region of the Americas
+44,2018,81.85413082,Region of the Americas
+44,2019,82.14901222,Region of the Americas
+44,2020,81.92773472,Region of the Americas
+44,2021,82.03504343,Region of the Americas
+45,2000,90.80851517,Eastern Mediterranean Region
+45,2001,90.54896001,Eastern Mediterranean Region
+45,2002,90.23351816,Eastern Mediterranean Region
+45,2003,89.8762371,Eastern Mediterranean Region
+45,2004,89.32987603,Eastern Mediterranean Region
+45,2005,88.74799724,Eastern Mediterranean Region
+45,2006,87.9362065,Eastern Mediterranean Region
+45,2007,86.84065708,Eastern Mediterranean Region
+45,2008,85.46027065,Eastern Mediterranean Region
+45,2009,83.41433623,Eastern Mediterranean Region
+45,2010,80.68941054,Eastern Mediterranean Region
+45,2011,77.21774013,Eastern Mediterranean Region
+45,2012,75.18838433,Eastern Mediterranean Region
+45,2013,71.78321601,Eastern Mediterranean Region
+45,2014,71.22327637,Eastern Mediterranean Region
+45,2015,69.79957287,Eastern Mediterranean Region
+45,2016,69.41662813,Eastern Mediterranean Region
+45,2017,69.05038393,Eastern Mediterranean Region
+45,2018,69.04791875,Eastern Mediterranean Region
+45,2019,68.89459476,Eastern Mediterranean Region
+45,2020,69.05178416,Eastern Mediterranean Region
+45,2021,69.04121949,Eastern Mediterranean Region
+46,2000,65.36253351,European Region
+46,2001,73.46528663,European Region
+46,2002,74.71596817,European Region
+46,2003,72.2415804,European Region
+46,2004,71.02986548,European Region
+46,2005,72.03503176,European Region
+46,2006,70.00813406,European Region
+46,2007,72.51859157,European Region
+46,2008,70.5880544,European Region
+46,2009,70.63691284,European Region
+46,2010,72.15049679,European Region
+46,2011,71.23498955,European Region
+46,2012,69.03530105,European Region
+46,2013,68.01786555,European Region
+46,2014,70.18572663,European Region
+46,2015,69.11720014,European Region
+46,2016,72.80774716,European Region
+46,2017,69.64462377,European Region
+46,2018,72.84881402,European Region
+46,2019,74.09375056,European Region
+46,2020,71.00537497,European Region
+46,2021,73.00160861,European Region
+47,2000,95.65049767,Region of the Americas
+47,2001,95.63011774,Region of the Americas
+47,2002,95.60924415,Region of the Americas
+47,2003,95.50612932,Region of the Americas
+47,2004,95.3229892,Region of the Americas
+47,2005,95.13316274,Region of the Americas
+47,2006,94.99805261,Region of the Americas
+47,2007,94.82904848,Region of the Americas
+47,2008,94.82397521,Region of the Americas
+47,2009,94.95266377,Region of the Americas
+47,2010,94.8111351,Region of the Americas
+47,2011,94.66641025,Region of the Americas
+47,2012,94.61766268,Region of the Americas
+47,2013,94.40623099,Region of the Americas
+47,2014,94.37328589,Region of the Americas
+47,2015,94.41786827,Region of the Americas
+47,2016,94.32887282,Region of the Americas
+47,2017,94.11347527,Region of the Americas
+47,2018,93.93158558,Region of the Americas
+47,2019,93.89587489,Region of the Americas
+47,2020,93.84846367,Region of the Americas
+47,2021,93.46967547,Region of the Americas
+48,2000,90.52484703,Eastern Mediterranean Region
+48,2001,89.57989846,Eastern Mediterranean Region
+48,2002,88.96472392,Eastern Mediterranean Region
+48,2003,87.44209289,Eastern Mediterranean Region
+48,2004,87.65155734,Eastern Mediterranean Region
+48,2005,86.12850863,Eastern Mediterranean Region
+48,2006,84.6876071,Eastern Mediterranean Region
+48,2007,84.15359612,Eastern Mediterranean Region
+48,2008,83.98868702,Eastern Mediterranean Region
+48,2009,82.42133727,Eastern Mediterranean Region
+48,2010,81.2641576,Eastern Mediterranean Region
+48,2011,81.18010253,Eastern Mediterranean Region
+48,2012,80.68266061,Eastern Mediterranean Region
+48,2013,79.11237801,Eastern Mediterranean Region
+48,2014,77.696682,Eastern Mediterranean Region
+48,2015,77.69515056,Eastern Mediterranean Region
+48,2016,78.1060125,Eastern Mediterranean Region
+48,2017,80.57929181,Eastern Mediterranean Region
+48,2018,84.53686546,Eastern Mediterranean Region
+48,2019,88.49549162,Eastern Mediterranean Region
+48,2020,92.3133001,Eastern Mediterranean Region
+48,2021,96.23844163,Eastern Mediterranean Region
+50,2000,53.35786864,Region of the Americas
+50,2001,54.96795997,Region of the Americas
+50,2002,53.43940645,Region of the Americas
+50,2003,51.82900774,Region of the Americas
+50,2004,51.86494511,Region of the Americas
+50,2005,51.21886233,Region of the Americas
+50,2006,50.00103883,Region of the Americas
+50,2007,50.48700054,Region of the Americas
+50,2008,51.29735529,Region of the Americas
+50,2009,50.9645333,Region of the Americas
+50,2010,48.86176128,Region of the Americas
+50,2011,41.52701705,Region of the Americas
+50,2012,41.94177453,Region of the Americas
+50,2013,39.55068156,Region of the Americas
+50,2014,50.28394142,Region of the Americas
+50,2015,53.06937371,Region of the Americas
+50,2016,52.33840946,Region of the Americas
+50,2017,52.63570512,Region of the Americas
+50,2018,51.19558722,Region of the Americas
+50,2019,49.65866877,Region of the Americas
+50,2020,49.83677501,Region of the Americas
+50,2021,49.44921062,Region of the Americas
+51,2000,80.87818422,European Region
+51,2001,80.79188911,European Region
+51,2002,80.54061708,European Region
+51,2003,78.14482696,European Region
+51,2004,80.78035517,European Region
+51,2005,80.10695393,European Region
+51,2006,79.93810149,European Region
+51,2007,79.53146988,European Region
+51,2008,79.7843673,European Region
+51,2009,78.45448644,European Region
+51,2010,78.94654779,European Region
+51,2011,76.63480004,European Region
+51,2012,77.40492623,European Region
+51,2013,78.09838758,European Region
+51,2014,77.80208602,European Region
+51,2015,78.12981101,European Region
+51,2016,78.10206022,European Region
+51,2017,79.92131469,European Region
+51,2018,79.99185045,European Region
+51,2019,79.40842733,European Region
+51,2020,79.13760342,European Region
+51,2021,78.99252514,European Region
+52,2000,83.0198957,European Region
+52,2001,82.60084411,European Region
+52,2002,83.47803484,European Region
+52,2003,82.10933585,European Region
+52,2004,82.49867243,European Region
+52,2005,80.86963838,European Region
+52,2006,82.36591091,European Region
+52,2007,83.71275496,European Region
+52,2008,83.85385095,European Region
+52,2009,83.8568615,European Region
+52,2010,83.93657315,European Region
+52,2011,84.02537074,European Region
+52,2012,84.61623337,European Region
+52,2013,84.24281138,European Region
+52,2014,83.30255107,European Region
+52,2015,82.33554537,European Region
+52,2016,83.53760482,European Region
+52,2017,83.19425047,European Region
+52,2018,83.14381603,European Region
+52,2019,83.27992263,European Region
+52,2020,83.07788721,European Region
+52,2021,83.04222925,European Region
+53,2000,85.9691723,Region of the Americas
+53,2001,81.86762259,Region of the Americas
+53,2002,81.89508765,Region of the Americas
+53,2003,82.1663915,Region of the Americas
+53,2004,82.1082838,Region of the Americas
+53,2005,81.81155982,Region of the Americas
+53,2006,82.10593533,Region of the Americas
+53,2007,81.85050686,Region of the Americas
+53,2008,81.38694924,Region of the Americas
+53,2009,80.96562767,Region of the Americas
+53,2010,79.38491172,Region of the Americas
+53,2011,81.99817291,Region of the Americas
+53,2012,81.33324198,Region of the Americas
+53,2013,80.74870063,Region of the Americas
+53,2014,79.92067624,Region of the Americas
+53,2015,78.99404906,Region of the Americas
+53,2016,78.06119827,Region of the Americas
+53,2017,77.64456263,Region of the Americas
+53,2018,76.97537918,Region of the Americas
+53,2019,72.86255867,Region of the Americas
+53,2020,77.11712383,Region of the Americas
+53,2021,78.29671354,Region of the Americas
+54,2000,98.51291974,African Region
+54,2001,98.50822519,African Region
+54,2002,98.42192617,African Region
+54,2003,98.33480815,African Region
+54,2004,98.1653578,African Region
+54,2005,98.24416876,African Region
+54,2006,97.9918098,African Region
+54,2007,97.74055814,African Region
+54,2008,97.48906878,African Region
+54,2009,97.31987288,African Region
+54,2010,97.23335433,African Region
+54,2011,96.81640805,African Region
+54,2012,96.56441363,African Region
+54,2013,96.31240928,African Region
+54,2014,95.97791245,African Region
+54,2015,95.89084991,African Region
+54,2016,95.6388156,African Region
+54,2017,95.38677125,African Region
+54,2018,95.20372615,African Region
+54,2019,94.97499862,African Region
+54,2020,94.73767188,African Region
+54,2021,94.55087584,African Region
+55,2000,82.73888198,European Region
+55,2001,82.27455027,European Region
+55,2002,82.83488683,European Region
+55,2003,81.36734117,European Region
+55,2004,81.25653477,European Region
+55,2005,79.26490803,European Region
+55,2006,79.88960943,European Region
+55,2007,78.10807945,European Region
+55,2008,78.43426464,European Region
+55,2009,77.76205221,European Region
+55,2010,79.75977321,European Region
+55,2011,79.05739283,European Region
+55,2012,80.73364186,European Region
+55,2013,79.36952814,European Region
+55,2014,78.43931049,European Region
+55,2015,77.72518394,European Region
+55,2016,78.04152039,European Region
+55,2017,77.74239565,European Region
+55,2018,77.62737564,European Region
+55,2019,77.28706141,European Region
+55,2020,77.46278583,European Region
+55,2021,76.97424613,European Region
+56,2000,89.38516984,Western Pacific Region
+56,2001,89.27746729,Western Pacific Region
+56,2002,89.24350573,Western Pacific Region
+56,2003,89.11826721,Western Pacific Region
+56,2004,89.07444198,Western Pacific Region
+56,2005,88.95185808,Western Pacific Region
+56,2006,88.91412344,Western Pacific Region
+56,2007,88.70558745,Western Pacific Region
+56,2008,88.50970949,Western Pacific Region
+56,2009,88.38350535,Western Pacific Region
+56,2010,88.01086731,Western Pacific Region
+56,2011,87.63480055,Western Pacific Region
+56,2012,87.5113053,Western Pacific Region
+56,2013,87.47354844,Western Pacific Region
+56,2014,87.36087426,Western Pacific Region
+56,2015,87.49256357,Western Pacific Region
+56,2016,87.45352905,Western Pacific Region
+56,2017,87.41599741,Western Pacific Region
+56,2018,87.21950942,Western Pacific Region
+56,2019,87.10875452,Western Pacific Region
+56,2020,86.98703018,Western Pacific Region
+56,2021,86.86550327,Western Pacific Region
+59,2000,91.65870113,European Region
+59,2001,90.11792426,European Region
+59,2002,88.49479402,European Region
+59,2003,85.96425017,European Region
+59,2004,84.36463782,European Region
+59,2005,84.29837747,European Region
+59,2006,84.27300483,European Region
+59,2007,85.95520358,European Region
+59,2008,86.53350863,European Region
+59,2009,87.72117873,European Region
+59,2010,88.43077507,European Region
+59,2011,88.63624767,European Region
+59,2012,88.76524249,European Region
+59,2013,88.6264861,European Region
+59,2014,88.27983599,European Region
+59,2015,88.06067869,European Region
+59,2016,87.51156271,European Region
+59,2017,87.1272955,European Region
+59,2018,86.74336904,European Region
+59,2019,86.55241754,European Region
+59,2020,86.55225313,European Region
+59,2021,86.75881979,European Region
+60,2000,83.90381073,European Region
+60,2001,83.23421357,European Region
+60,2002,84.25928025,European Region
+60,2003,84.19976656,European Region
+60,2004,85.3412468,European Region
+60,2005,84.24334663,European Region
+60,2006,84.54971082,European Region
+60,2007,84.68840533,European Region
+60,2008,84.62522323,European Region
+60,2009,84.27560918,European Region
+60,2010,84.59305876,European Region
+60,2011,83.05784076,European Region
+60,2012,83.61025553,European Region
+60,2013,84.90696572,European Region
+60,2014,84.2977166,European Region
+60,2015,84.61516658,European Region
+60,2016,84.71382682,European Region
+60,2017,86.1040298,European Region
+60,2018,85.27073257,European Region
+60,2019,85.1182268,European Region
+60,2020,84.4407235,European Region
+60,2021,84.61506512,European Region
+62,2000,79.56793582,European Region
+62,2001,74.8655253,European Region
+62,2002,74.4514876,European Region
+62,2003,78.56743306,European Region
+62,2004,73.68947507,European Region
+62,2005,76.76253001,European Region
+62,2006,76.57592873,European Region
+62,2007,76.13176211,European Region
+62,2008,75.02760223,European Region
+62,2009,74.50067309,European Region
+62,2010,73.53945044,European Region
+62,2011,72.91050588,European Region
+62,2012,72.66161289,European Region
+62,2013,67.39797751,European Region
+62,2014,66.74453402,European Region
+62,2015,67.15951194,European Region
+62,2016,65.80240489,European Region
+62,2017,66.21541289,European Region
+62,2018,66.2249366,European Region
+62,2019,65.62435463,European Region
+62,2020,64.47651338,European Region
+62,2021,64.1933695,European Region
+63,2000,93.00953918,Region of the Americas
+63,2001,91.21106102,Region of the Americas
+63,2002,92.45380759,Region of the Americas
+63,2003,93.77201206,Region of the Americas
+63,2004,93.27593905,Region of the Americas
+63,2005,93.2702323,Region of the Americas
+63,2006,92.9249068,Region of the Americas
+63,2007,92.7171455,Region of the Americas
+63,2008,92.49673061,Region of the Americas
+63,2009,92.38104003,Region of the Americas
+63,2010,92.04518836,Region of the Americas
+63,2011,91.75496295,Region of the Americas
+63,2012,91.58629601,Region of the Americas
+63,2013,91.2126016,Region of the Americas
+63,2014,91.16864946,Region of the Americas
+63,2015,90.99957236,Region of the Americas
+63,2016,90.58022475,Region of the Americas
+63,2017,89.67879225,Region of the Americas
+63,2018,89.33157086,Region of the Americas
+63,2019,89.53156019,Region of the Americas
+63,2020,89.73134388,Region of the Americas
+63,2021,89.93093642,Region of the Americas
+64,2000,89.6306238,Western Pacific Region
+64,2001,89.51251814,Western Pacific Region
+64,2002,89.31186437,Western Pacific Region
+64,2003,89.02717277,Western Pacific Region
+64,2004,88.57882849,Western Pacific Region
+64,2005,88.4566748,Western Pacific Region
+64,2006,88.16628974,Western Pacific Region
+64,2007,87.95192914,Western Pacific Region
+64,2008,87.74755008,Western Pacific Region
+64,2009,87.53537453,Western Pacific Region
+64,2010,87.40060867,Western Pacific Region
+64,2011,87.0048097,Western Pacific Region
+64,2012,86.84210883,Western Pacific Region
+64,2013,86.83303706,Western Pacific Region
+64,2014,87.39495876,Western Pacific Region
+64,2015,87.73049414,Western Pacific Region
+64,2016,87.80594719,Western Pacific Region
+64,2017,87.48122637,Western Pacific Region
+64,2018,87.22706758,Western Pacific Region
+64,2019,86.8831582,Western Pacific Region
+64,2020,86.58135856,Western Pacific Region
+64,2021,86.36490774,Western Pacific Region
+66,2000,97.64869223,Eastern Mediterranean Region
+66,2001,97.64537648,Eastern Mediterranean Region
+66,2002,97.56549047,Eastern Mediterranean Region
+66,2003,97.56237339,Eastern Mediterranean Region
+66,2004,97.47199307,Eastern Mediterranean Region
+66,2005,97.38445079,Eastern Mediterranean Region
+66,2006,97.29242827,Eastern Mediterranean Region
+66,2007,97.12693617,Eastern Mediterranean Region
+66,2008,96.95998739,Eastern Mediterranean Region
+66,2009,96.96249938,Eastern Mediterranean Region
+66,2010,96.71408881,Eastern Mediterranean Region
+66,2011,96.36490489,Eastern Mediterranean Region
+66,2012,96.17720282,Eastern Mediterranean Region
+66,2013,96.07802745,Eastern Mediterranean Region
+66,2014,95.73647059,Eastern Mediterranean Region
+66,2015,95.57572162,Eastern Mediterranean Region
+66,2016,95.34464105,Eastern Mediterranean Region
+66,2017,95.17464123,Eastern Mediterranean Region
+66,2018,95.05406749,Eastern Mediterranean Region
+66,2019,94.84247323,Eastern Mediterranean Region
+66,2020,94.65077092,Eastern Mediterranean Region
+66,2021,94.48365929,Eastern Mediterranean Region
+67,2000,98.93925434,African Region
+67,2001,98.77360422,African Region
+67,2002,98.60580115,African Region
+67,2003,98.51138981,African Region
+67,2004,98.41354007,African Region
+67,2005,98.21664351,African Region
+67,2006,97.99010817,African Region
+67,2007,97.86230127,African Region
+67,2008,97.67469744,African Region
+67,2009,97.51066998,African Region
+67,2010,97.30809241,African Region
+67,2011,96.95025737,African Region
+67,2012,96.66374899,African Region
+67,2013,96.46264584,African Region
+67,2014,96.2651419,African Region
+67,2015,95.9934502,African Region
+67,2016,95.9836124,African Region
+67,2017,95.80263616,African Region
+67,2018,95.45238741,African Region
+67,2019,95.25888663,African Region
+67,2020,95.0585949,African Region
+67,2021,94.87892828,African Region
+68,2000,95.55450871,African Region
+68,2001,95.5325755,African Region
+68,2002,95.52123928,African Region
+68,2003,95.42386958,African Region
+68,2004,95.33706186,African Region
+68,2005,95.49407712,African Region
+68,2006,95.24499029,African Region
+68,2007,95.1414347,African Region
+68,2008,95.06061757,African Region
+68,2009,94.95408561,African Region
+68,2010,94.93231612,African Region
+68,2011,94.68453984,African Region
+68,2012,94.5759179,African Region
+68,2013,94.34006179,African Region
+68,2014,94.01925483,African Region
+68,2015,93.9275314,African Region
+68,2016,93.42713531,African Region
+68,2017,92.7551437,African Region
+68,2018,92.50162819,African Region
+68,2019,91.90865295,African Region
+68,2020,91.40264461,African Region
+68,2021,90.88865726,African Region
+69,2000,86.14639749,European Region
+69,2001,86.16611603,European Region
+69,2002,85.83516094,European Region
+69,2003,85.00928534,European Region
+69,2004,85.81225973,European Region
+69,2005,84.48408236,European Region
+69,2006,85.87011419,European Region
+69,2007,85.38896517,European Region
+69,2008,85.2523627,European Region
+69,2009,84.54626997,European Region
+69,2010,84.89713256,European Region
+69,2011,84.61386371,European Region
+69,2012,85.95025669,European Region
+69,2013,84.69289069,European Region
+69,2014,84.32050188,European Region
+69,2015,84.39755247,European Region
+69,2016,84.59817891,European Region
+69,2017,84.90740434,European Region
+69,2018,85.5987721,European Region
+69,2019,85.09768297,European Region
+69,2020,85.14065522,European Region
+69,2021,85.11284494,European Region
+70,2000,84.75774855,Eastern Mediterranean Region
+70,2001,86.19805871,Eastern Mediterranean Region
+70,2002,84.58558014,Eastern Mediterranean Region
+70,2003,84.62110345,Eastern Mediterranean Region
+70,2004,84.1576315,Eastern Mediterranean Region
+70,2005,82.50066278,Eastern Mediterranean Region
+70,2006,82.26252666,Eastern Mediterranean Region
+70,2007,82.55119117,Eastern Mediterranean Region
+70,2008,83.42054825,Eastern Mediterranean Region
+70,2009,81.28907941,Eastern Mediterranean Region
+70,2010,82.21534941,Eastern Mediterranean Region
+70,2011,81.54214974,Eastern Mediterranean Region
+70,2012,80.28795119,Eastern Mediterranean Region
+70,2013,81.00161546,Eastern Mediterranean Region
+70,2014,80.31934546,Eastern Mediterranean Region
+70,2015,81.34906276,Eastern Mediterranean Region
+70,2016,79.27012033,Eastern Mediterranean Region
+70,2017,80.1602357,Eastern Mediterranean Region
+70,2018,80.71916436,Eastern Mediterranean Region
+70,2019,80.1760198,Eastern Mediterranean Region
+70,2020,80.22061283,Eastern Mediterranean Region
+70,2021,80.24274971,Eastern Mediterranean Region
+71,2000,86.14067598,Eastern Mediterranean Region
+71,2001,86.03197903,Eastern Mediterranean Region
+71,2002,86.62161734,Eastern Mediterranean Region
+71,2003,85.69531784,Eastern Mediterranean Region
+71,2004,85.86278216,Eastern Mediterranean Region
+71,2005,86.31893659,Eastern Mediterranean Region
+71,2006,86.33856113,Eastern Mediterranean Region
+71,2007,87.0431297,Eastern Mediterranean Region
+71,2008,86.84222426,Eastern Mediterranean Region
+71,2009,84.51855406,Eastern Mediterranean Region
+71,2010,84.72984091,Eastern Mediterranean Region
+71,2011,82.91220889,Eastern Mediterranean Region
+71,2012,84.15683008,Eastern Mediterranean Region
+71,2013,83.75865277,Eastern Mediterranean Region
+71,2014,81.54536741,Eastern Mediterranean Region
+71,2015,78.68551541,Eastern Mediterranean Region
+71,2016,76.68932614,Eastern Mediterranean Region
+71,2017,76.86960926,Eastern Mediterranean Region
+71,2018,79.14104144,Eastern Mediterranean Region
+71,2019,79.12266432,Eastern Mediterranean Region
+71,2020,79.18446706,Eastern Mediterranean Region
+71,2021,79.19411061,Eastern Mediterranean Region
+72,2000,91.12037357,European Region
+72,2001,90.50887671,European Region
+72,2002,90.00632374,European Region
+72,2003,88.97817748,European Region
+72,2004,87.77984788,European Region
+72,2005,86.86947688,European Region
+72,2006,86.17509364,European Region
+72,2007,85.39247425,European Region
+72,2008,84.39679654,European Region
+72,2009,83.79748285,European Region
+72,2010,83.63267543,European Region
+72,2011,83.12743556,European Region
+72,2012,82.47512335,European Region
+72,2013,81.46851153,European Region
+72,2014,80.46879648,European Region
+72,2015,80.22210397,European Region
+72,2016,79.64383989,European Region
+72,2017,79.1460345,European Region
+72,2018,78.87022165,European Region
+72,2019,78.11526412,European Region
+72,2020,77.40531102,European Region
+72,2021,76.71676633,European Region
+73,2000,92.29986719,African Region
+73,2001,92.19869741,African Region
+73,2002,91.97483951,African Region
+73,2003,91.79337474,African Region
+73,2004,91.42451721,African Region
+73,2005,91.20316188,African Region
+73,2006,90.44338667,African Region
+73,2007,89.83791958,African Region
+73,2008,89.33919856,African Region
+73,2009,89.08641179,African Region
+73,2010,89.3758436,African Region
+73,2011,89.09069131,African Region
+73,2012,88.80348157,African Region
+73,2013,88.00082361,African Region
+73,2014,86.2873223,African Region
+73,2015,85.55225644,African Region
+73,2016,85.75678376,African Region
+73,2017,85.48660083,African Region
+73,2018,84.99414333,African Region
+73,2019,84.60987644,African Region
+73,2020,84.16306148,African Region
+73,2021,83.75616714,African Region
+74,2000,84.86734701,Region of the Americas
+74,2001,87.0992932,Region of the Americas
+74,2002,86.77866647,Region of the Americas
+74,2003,83.84811155,Region of the Americas
+74,2004,81.29016109,Region of the Americas
+74,2005,83.34658217,Region of the Americas
+74,2006,85.8704024,Region of the Americas
+74,2007,84.41870986,Region of the Americas
+74,2008,89.48659955,Region of the Americas
+74,2009,86.40833759,Region of the Americas
+74,2010,86.25180165,Region of the Americas
+74,2011,87.32150837,Region of the Americas
+74,2012,85.87481469,Region of the Americas
+74,2013,87.80331913,Region of the Americas
+74,2014,80.42127329,Region of the Americas
+74,2015,88.93968374,Region of the Americas
+74,2016,88.51418487,Region of the Americas
+74,2017,88.14601923,Region of the Americas
+74,2018,88.32818968,Region of the Americas
+74,2019,85.44509432,Region of the Americas
+74,2020,88.58741939,Region of the Americas
+74,2021,85.87608998,Region of the Americas
+76,2000,86.73749044,Region of the Americas
+76,2001,85.52407106,Region of the Americas
+76,2002,86.18450156,Region of the Americas
+76,2003,85.76097605,Region of the Americas
+76,2004,85.09055475,Region of the Americas
+76,2005,84.44917486,Region of the Americas
+76,2006,84.37307065,Region of the Americas
+76,2007,83.5956601,Region of the Americas
+76,2008,83.29193596,Region of the Americas
+76,2009,83.82623765,Region of the Americas
+76,2010,83.05413934,Region of the Americas
+76,2011,83.2873355,Region of the Americas
+76,2012,82.64740168,Region of the Americas
+76,2013,82.584492,Region of the Americas
+76,2014,81.73321169,Region of the Americas
+76,2015,81.2015523,Region of the Americas
+76,2016,80.49141642,Region of the Americas
+76,2017,80.27892119,Region of the Americas
+76,2018,80.69662204,Region of the Americas
+76,2019,80.11999052,Region of the Americas
+76,2020,79.7706321,Region of the Americas
+76,2021,79.03947711,Region of the Americas
+77,2000,92.11001894,European Region
+77,2001,91.67543629,European Region
+77,2002,91.73573751,European Region
+77,2003,91.30064683,European Region
+77,2004,89.71115925,European Region
+77,2005,89.77124407,European Region
+77,2006,89.50147164,European Region
+77,2007,88.73692557,European Region
+77,2008,88.1373417,European Region
+77,2009,87.4551399,European Region
+77,2010,87.18527215,European Region
+77,2011,86.2554867,European Region
+77,2012,85.73803475,European Region
+77,2013,85.38547334,European Region
+77,2014,85.77516853,European Region
+77,2015,85.91734947,European Region
+77,2016,85.25848013,European Region
+77,2017,85.21621939,European Region
+77,2018,85.53048495,European Region
+77,2019,85.15628331,European Region
+77,2020,84.74866092,European Region
+77,2021,84.36604934,European Region
+78,2000,85.55762979,South-East Asia Region
+78,2001,85.17419142,South-East Asia Region
+78,2002,84.54297872,South-East Asia Region
+78,2003,83.99396839,South-East Asia Region
+78,2004,83.44224716,South-East Asia Region
+78,2005,82.89479676,South-East Asia Region
+78,2006,82.75743705,South-East Asia Region
+78,2007,81.87072525,South-East Asia Region
+78,2008,81.40469798,South-East Asia Region
+78,2009,82.1743278,South-East Asia Region
+78,2010,82.11428021,South-East Asia Region
+78,2011,81.1386946,South-East Asia Region
+78,2012,80.42691317,South-East Asia Region
+78,2013,79.96585381,South-East Asia Region
+78,2014,79.42185907,South-East Asia Region
+78,2015,78.86638632,South-East Asia Region
+78,2016,78.72243348,South-East Asia Region
+78,2017,77.5768583,South-East Asia Region
+78,2018,77.10599641,South-East Asia Region
+78,2019,76.62801244,South-East Asia Region
+78,2020,76.19084386,South-East Asia Region
+78,2021,75.6535453,South-East Asia Region
+79,2000,87.63553687,Region of the Americas
+79,2001,87.7402113,Region of the Americas
+79,2002,87.50963688,Region of the Americas
+79,2003,86.85097163,Region of the Americas
+79,2004,86.22476558,Region of the Americas
+79,2005,86.5982298,Region of the Americas
+79,2006,86.32677246,Region of the Americas
+79,2007,86.40023731,Region of the Americas
+79,2008,86.1666357,Region of the Americas
+79,2009,85.90232413,Region of the Americas
+79,2010,85.60329785,Region of the Americas
+79,2011,85.27341318,Region of the Americas
+79,2012,85.16419374,Region of the Americas
+79,2013,85.03409527,Region of the Americas
+79,2014,84.79099476,Region of the Americas
+79,2015,84.36919423,Region of the Americas
+79,2016,84.43431664,Region of the Americas
+79,2017,84.40774674,Region of the Americas
+79,2018,84.33373361,Region of the Americas
+79,2019,84.03244313,Region of the Americas
+79,2020,83.70106051,Region of the Americas
+79,2021,83.41616147,Region of the Americas
+81,2000,95.25159398,African Region
+81,2001,95.75389997,African Region
+81,2002,95.26951218,African Region
+81,2003,95.16474855,African Region
+81,2004,94.77082901,African Region
+81,2005,94.83292906,African Region
+81,2006,94.7925273,African Region
+81,2007,94.9244199,African Region
+81,2008,94.87616555,African Region
+81,2009,95.12977268,African Region
+81,2010,94.85149064,African Region
+81,2011,94.60142554,African Region
+81,2012,94.32396387,African Region
+81,2013,93.97387472,African Region
+81,2014,93.74364505,African Region
+81,2015,93.66188252,African Region
+81,2016,93.29070589,African Region
+81,2017,92.65433919,African Region
+81,2018,92.48942596,African Region
+81,2019,92.31694624,African Region
+81,2020,92.12618909,African Region
+81,2021,91.93631809,African Region
+82,2000,88.79066491,European Region
+82,2001,89.62883256,European Region
+82,2002,89.72473128,European Region
+82,2003,90.30294832,European Region
+82,2004,89.65530736,European Region
+82,2005,88.68023699,European Region
+82,2006,88.51770986,European Region
+82,2007,87.53845965,European Region
+82,2008,88.01872741,European Region
+82,2009,88.48088229,European Region
+82,2010,88.6234125,European Region
+82,2011,87.88774905,European Region
+82,2012,87.59687604,European Region
+82,2013,88.3376407,European Region
+82,2014,88.00096896,European Region
+82,2015,88.34658513,European Region
+82,2016,88.11566633,European Region
+82,2017,88.52649353,European Region
+82,2018,88.93581628,European Region
+82,2019,89.25191504,European Region
+82,2020,89.09746189,European Region
+82,2021,89.72877763,European Region
+83,2000,92.29565008,Region of the Americas
+83,2001,91.98203976,Region of the Americas
+83,2002,91.90213577,Region of the Americas
+83,2003,91.79077094,Region of the Americas
+83,2004,91.586041,Region of the Americas
+83,2005,91.10044236,Region of the Americas
+83,2006,90.62994667,Region of the Americas
+83,2007,90.12145583,Region of the Americas
+83,2008,89.71142872,Region of the Americas
+83,2009,89.745406,Region of the Americas
+83,2010,89.64455055,Region of the Americas
+83,2011,89.5832944,Region of the Americas
+83,2012,89.34709526,Region of the Americas
+83,2013,89.05485275,Region of the Americas
+83,2014,88.87038233,Region of the Americas
+83,2015,88.81144098,Region of the Americas
+83,2016,88.7804204,Region of the Americas
+83,2017,88.68604422,Region of the Americas
+83,2018,88.80764871,Region of the Americas
+83,2019,88.61603185,Region of the Americas
+83,2020,88.52851649,Region of the Americas
+83,2021,88.56577429,Region of the Americas
+84,2000,80.87266834,European Region
+84,2001,80.48395989,European Region
+84,2002,79.74306765,European Region
+84,2003,78.94379589,European Region
+84,2004,78.20250918,European Region
+84,2005,77.7295679,European Region
+84,2006,77.04388527,European Region
+84,2007,76.93678548,European Region
+84,2008,76.42795671,European Region
+84,2009,76.72789892,European Region
+84,2010,76.60217855,European Region
+84,2011,73.59115698,European Region
+84,2012,74.70427631,European Region
+84,2013,74.99210257,European Region
+84,2014,74.61988678,European Region
+84,2015,74.16585702,European Region
+84,2016,73.95906171,European Region
+84,2017,73.5040559,European Region
+84,2018,72.96664822,European Region
+84,2019,72.46438688,European Region
+84,2020,72.02884542,European Region
+84,2021,71.59421932,European Region
+85,2000,90.38157646,South-East Asia Region
+85,2001,89.88059677,South-East Asia Region
+85,2002,89.29774384,South-East Asia Region
+85,2003,88.63437553,South-East Asia Region
+85,2004,87.29411128,South-East Asia Region
+85,2005,86.34677744,South-East Asia Region
+85,2006,85.58343426,South-East Asia Region
+85,2007,84.82165415,South-East Asia Region
+85,2008,83.89598906,South-East Asia Region
+85,2009,83.1072026,South-East Asia Region
+85,2010,82.11076314,South-East Asia Region
+85,2011,81.51130417,South-East Asia Region
+85,2012,81.4475403,South-East Asia Region
+85,2013,81.66300402,South-East Asia Region
+85,2014,81.91950714,South-East Asia Region
+85,2015,81.82524356,South-East Asia Region
+85,2016,83.62668073,South-East Asia Region
+85,2017,84.00179076,South-East Asia Region
+85,2018,83.9082182,South-East Asia Region
+85,2019,84.29076934,South-East Asia Region
+85,2020,84.4566791,South-East Asia Region
+85,2021,84.70793879,South-East Asia Region
+86,2000,88.61762628,European Region
+86,2001,87.75368324,European Region
+86,2002,87.63364702,European Region
+86,2003,87.2004217,European Region
+86,2004,87.01872667,European Region
+86,2005,86.58199999,European Region
+86,2006,86.59502202,European Region
+86,2007,85.84776024,European Region
+86,2008,85.59810693,European Region
+86,2009,85.52120405,European Region
+86,2010,85.27954209,European Region
+86,2011,85.07251467,European Region
+86,2012,84.27686543,European Region
+86,2013,84.51818231,European Region
+86,2014,82.96403574,European Region
+86,2015,83.36371997,European Region
+86,2016,83.7229504,European Region
+86,2017,84.48344128,European Region
+86,2018,85.42632764,European Region
+86,2019,85.41027829,European Region
+86,2020,85.58791934,European Region
+86,2021,85.58865702,European Region
+87,2000,84.9838652,European Region
+87,2001,85.39112157,European Region
+87,2002,84.89659721,European Region
+87,2003,86.45975641,European Region
+87,2004,85.87839186,European Region
+87,2005,84.63715929,European Region
+87,2006,87.19002605,European Region
+87,2007,86.68545068,European Region
+87,2008,85.44642144,European Region
+87,2009,86.76395399,European Region
+87,2010,85.52292101,European Region
+87,2011,85.51876603,European Region
+87,2012,85.5977938,European Region
+87,2013,85.84007759,European Region
+87,2014,86.74162205,European Region
+87,2015,86.4084273,European Region
+87,2016,85.08286037,European Region
+87,2017,84.58490633,European Region
+87,2018,83.17850956,European Region
+87,2019,85.57971848,European Region
+87,2020,85.57577438,European Region
+87,2021,85.56744661,European Region
+89,2000,88.67482855,South-East Asia Region
+89,2001,88.46054027,South-East Asia Region
+89,2002,88.32866272,South-East Asia Region
+89,2003,88.03143252,South-East Asia Region
+89,2004,87.75294735,South-East Asia Region
+89,2005,87.55245698,South-East Asia Region
+89,2006,87.21928104,South-East Asia Region
+89,2007,86.70684468,South-East Asia Region
+89,2008,86.08722767,South-East Asia Region
+89,2009,85.53293442,South-East Asia Region
+89,2010,84.97064867,South-East Asia Region
+89,2011,84.34565366,South-East Asia Region
+89,2012,84.13274516,South-East Asia Region
+89,2013,83.50723631,South-East Asia Region
+89,2014,82.7164822,South-East Asia Region
+89,2015,82.17288773,South-East Asia Region
+89,2016,81.79398178,South-East Asia Region
+89,2017,81.49715715,South-East Asia Region
+89,2018,81.28269373,South-East Asia Region
+89,2019,80.95918495,South-East Asia Region
+89,2020,80.55344474,South-East Asia Region
+89,2021,80.14772471,South-East Asia Region
+90,2000,98.00893249,African Region
+90,2001,98.03286759,African Region
+90,2002,98.1093488,African Region
+90,2003,98.10772804,African Region
+90,2004,98.03355986,African Region
+90,2005,98.03114937,African Region
+90,2006,97.90644149,African Region
+90,2007,97.57812945,African Region
+90,2008,97.29862856,African Region
+90,2009,97.02076843,African Region
+90,2010,96.51378243,African Region
+90,2011,95.85669575,African Region
+90,2012,95.31972542,African Region
+90,2013,94.85392677,African Region
+90,2014,94.1848785,African Region
+90,2015,93.18467112,African Region
+90,2016,92.83377517,African Region
+90,2017,92.23899569,African Region
+90,2018,91.95132233,African Region
+90,2019,91.68638755,African Region
+90,2020,91.49755099,African Region
+90,2021,91.39552484,African Region
+91,2000,98.02805536,African Region
+91,2001,98.02268376,African Region
+91,2002,98.00999399,African Region
+91,2003,97.99356732,African Region
+91,2004,97.89201857,African Region
+91,2005,97.81296735,African Region
+91,2006,97.73558617,African Region
+91,2007,97.57757162,African Region
+91,2008,97.24214499,African Region
+91,2009,96.98899569,African Region
+91,2010,96.48822816,African Region
+91,2011,95.73996146,African Region
+91,2012,95.07412668,African Region
+91,2013,94.57323649,African Region
+91,2014,93.65992487,African Region
+91,2015,92.08674697,African Region
+91,2016,92.32812373,African Region
+91,2017,91.90963927,African Region
+91,2018,91.82105684,African Region
+91,2019,91.46281909,African Region
+91,2020,91.104557,African Region
+91,2021,90.74627411,African Region
+92,2000,88.98348561,European Region
+92,2001,88.13491923,European Region
+92,2002,87.53051264,European Region
+92,2003,86.43547312,European Region
+92,2004,85.34210221,European Region
+92,2005,83.82848625,European Region
+92,2006,82.73336048,European Region
+92,2007,81.80355745,European Region
+92,2008,81.20562879,European Region
+92,2009,80.93950377,European Region
+92,2010,80.75554431,European Region
+92,2011,80.24223209,European Region
+92,2012,80.14112689,European Region
+92,2013,79.48423605,European Region
+92,2014,78.68424992,European Region
+92,2015,77.88096732,European Region
+92,2016,77.24243493,European Region
+92,2017,76.73795118,European Region
+92,2018,76.07694942,European Region
+92,2019,75.61264654,European Region
+92,2020,75.05919037,European Region
+92,2021,74.55349248,European Region
+93,2000,88.24463922,Eastern Mediterranean Region
+93,2001,88.11857068,Eastern Mediterranean Region
+93,2002,85.54320201,Eastern Mediterranean Region
+93,2003,84.55774593,Eastern Mediterranean Region
+93,2004,84.40782048,Eastern Mediterranean Region
+93,2005,83.94174364,Eastern Mediterranean Region
+93,2006,81.29293212,Eastern Mediterranean Region
+93,2007,80.66999072,Eastern Mediterranean Region
+93,2008,81.97827339,Eastern Mediterranean Region
+93,2009,82.95085424,Eastern Mediterranean Region
+93,2010,82.7925034,Eastern Mediterranean Region
+93,2011,80.05423031,Eastern Mediterranean Region
+93,2012,76.19679306,Eastern Mediterranean Region
+93,2013,75.16094495,Eastern Mediterranean Region
+93,2014,68.12029619,Eastern Mediterranean Region
+93,2015,69.61236227,Eastern Mediterranean Region
+93,2016,72.00550999,Eastern Mediterranean Region
+93,2017,78.91763304,Eastern Mediterranean Region
+93,2018,80.00864819,Eastern Mediterranean Region
+93,2019,77.95322611,Eastern Mediterranean Region
+93,2020,76.58845965,Eastern Mediterranean Region
+93,2021,77.26909551,Eastern Mediterranean Region
+94,2000,86.18571099,Western Pacific Region
+94,2001,85.9620243,Western Pacific Region
+94,2002,85.816594,Western Pacific Region
+94,2003,85.86707668,Western Pacific Region
+94,2004,85.93678306,Western Pacific Region
+94,2005,85.9788082,Western Pacific Region
+94,2006,85.94584692,Western Pacific Region
+94,2007,85.80272004,Western Pacific Region
+94,2008,85.67059253,Western Pacific Region
+94,2009,85.4642738,Western Pacific Region
+94,2010,85.10692059,Western Pacific Region
+94,2011,84.8018253,Western Pacific Region
+94,2012,84.71998748,Western Pacific Region
+94,2013,84.50216734,Western Pacific Region
+94,2014,84.33286781,Western Pacific Region
+94,2015,83.87181517,Western Pacific Region
+94,2016,83.40553622,Western Pacific Region
+94,2017,83.18635754,Western Pacific Region
+94,2018,82.95706314,Western Pacific Region
+94,2019,82.71765117,Western Pacific Region
+94,2020,82.48277703,Western Pacific Region
+94,2021,82.25243884,Western Pacific Region
+95,2000,83.2664173,European Region
+95,2001,83.68676129,European Region
+95,2002,84.86953662,European Region
+95,2003,83.78452623,European Region
+95,2004,82.83022881,European Region
+95,2005,82.80731568,European Region
+95,2006,84.63380121,European Region
+95,2007,84.33320028,European Region
+95,2008,86.11014924,European Region
+95,2009,86.59774543,European Region
+95,2010,86.5484744,European Region
+95,2011,86.68489934,European Region
+95,2012,87.47731076,European Region
+95,2013,87.71282506,European Region
+95,2014,86.81221346,European Region
+95,2015,86.00684818,European Region
+95,2016,86.08642725,European Region
+95,2017,86.43532204,European Region
+95,2018,86.00908375,European Region
+95,2019,86.39034846,European Region
+95,2020,86.46557052,European Region
+95,2021,86.713923,European Region
+96,2000,91.13361981,Western Pacific Region
+96,2001,91.0909459,Western Pacific Region
+96,2002,90.96556785,Western Pacific Region
+96,2003,90.7574849,Western Pacific Region
+96,2004,90.46670431,Western Pacific Region
+96,2005,90.50561268,Western Pacific Region
+96,2006,90.21437036,Western Pacific Region
+96,2007,89.67544971,Western Pacific Region
+96,2008,89.21878807,Western Pacific Region
+96,2009,89.09050791,Western Pacific Region
+96,2010,88.96460576,Western Pacific Region
+96,2011,88.17731945,Western Pacific Region
+96,2012,88.21428535,Western Pacific Region
+96,2013,87.58972287,Western Pacific Region
+96,2014,87.2982336,Western Pacific Region
+96,2015,87.40989743,Western Pacific Region
+96,2016,87.10902685,Western Pacific Region
+96,2017,86.64199491,Western Pacific Region
+96,2018,86.34038167,Western Pacific Region
+96,2019,86.07241952,Western Pacific Region
+96,2020,85.80418054,Western Pacific Region
+96,2021,85.53685816,Western Pacific Region
+97,2000,85.09376053,Region of the Americas
+97,2001,85.22777041,Region of the Americas
+97,2002,85.9741607,Region of the Americas
+97,2003,85.72845382,Region of the Americas
+97,2004,80.4053712,Region of the Americas
+97,2005,85.18868881,Region of the Americas
+97,2006,84.8509351,Region of the Americas
+97,2007,83.10406833,Region of the Americas
+97,2008,82.2693972,Region of the Americas
+97,2009,83.41777417,Region of the Americas
+97,2010,80.66324695,Region of the Americas
+97,2011,81.93754039,Region of the Americas
+97,2012,82.11445152,Region of the Americas
+97,2013,82.32022923,Region of the Americas
+97,2014,78.54808229,Region of the Americas
+97,2015,76.79175761,Region of the Americas
+97,2016,78.65391951,Region of the Americas
+97,2017,78.27333264,Region of the Americas
+97,2018,78.23278832,Region of the Americas
+97,2019,77.94758341,Region of the Americas
+97,2020,80.18438612,Region of the Americas
+97,2021,82.31350321,Region of the Americas
+98,2000,85.29357666,European Region
+98,2001,84.98558266,European Region
+98,2002,83.55080109,European Region
+98,2003,82.00419456,European Region
+98,2004,79.85096859,European Region
+98,2005,76.04113859,European Region
+98,2006,74.00167029,European Region
+98,2007,71.90102267,European Region
+98,2008,70.24230907,European Region
+98,2009,68.46856673,European Region
+98,2010,67.71223389,European Region
+98,2011,65.75049184,European Region
+98,2012,65.20058821,European Region
+98,2013,64.66432976,European Region
+98,2014,64.03658786,European Region
+98,2015,63.53291082,European Region
+98,2016,64.46540173,European Region
+98,2017,65.09435016,European Region
+98,2018,65.66357275,European Region
+98,2019,66.4344532,European Region
+98,2020,67.00821421,European Region
+98,2021,67.68737363,European Region
+99,2000,65.92359596,Region of the Americas
+99,2001,55.36330209,Region of the Americas
+99,2002,74.1279482,Region of the Americas
+99,2003,79.01576954,Region of the Americas
+99,2004,81.00108749,Region of the Americas
+99,2005,78.65342086,Region of the Americas
+99,2006,78.71280989,Region of the Americas
+99,2007,78.62321493,Region of the Americas
+99,2008,82.32394943,Region of the Americas
+99,2009,82.52961175,Region of the Americas
+99,2010,83.2819326,Region of the Americas
+99,2011,81.52928097,Region of the Americas
+99,2012,81.67025415,Region of the Americas
+99,2013,82.45795387,Region of the Americas
+99,2014,81.85830338,Region of the Americas
+99,2015,81.62472028,Region of the Americas
+99,2016,80.86181018,Region of the Americas
+99,2017,79.68639126,Region of the Americas
+99,2018,81.48017904,Region of the Americas
+99,2019,80.91507199,Region of the Americas
+99,2020,80.89406893,Region of the Americas
+99,2021,80.87295932,Region of the Americas
+100,2000,97.29790819,African Region
+100,2001,97.17415132,African Region
+100,2002,97.29276076,African Region
+100,2003,97.12506328,African Region
+100,2004,96.59796214,African Region
+100,2005,96.79845529,African Region
+100,2006,95.89307961,African Region
+100,2007,95.60804881,African Region
+100,2008,95.17791,African Region
+100,2009,95.03784108,African Region
+100,2010,94.74804335,African Region
+100,2011,94.08219633,African Region
+100,2012,93.66358554,African Region
+100,2013,93.050327,African Region
+100,2014,92.61190566,African Region
+100,2015,92.255933,African Region
+100,2016,91.81733114,African Region
+100,2017,91.47345209,African Region
+100,2018,91.30058274,African Region
+100,2019,90.98104057,African Region
+100,2020,90.66145803,African Region
+100,2021,90.34183493,African Region
+101,2000,92.33946821,African Region
+101,2001,92.09370715,African Region
+101,2002,91.67894773,African Region
+101,2003,91.48243828,African Region
+101,2004,90.9927739,African Region
+101,2005,90.49889361,African Region
+101,2006,90.73840298,African Region
+101,2007,90.12534763,African Region
+101,2008,89.78664118,African Region
+101,2009,89.80221167,African Region
+101,2010,89.23085206,African Region
+101,2011,88.57382937,African Region
+101,2012,88.63954164,African Region
+101,2013,88.27850649,African Region
+101,2014,87.78888141,African Region
+101,2015,87.69828516,African Region
+101,2016,86.96030046,African Region
+101,2017,86.81481728,African Region
+101,2018,86.50433603,African Region
+101,2019,86.26187906,African Region
+101,2020,85.90806433,African Region
+101,2021,85.83622569,African Region
+102,2000,97.34029646,African Region
+102,2001,97.33701633,African Region
+102,2002,97.33373083,African Region
+102,2003,97.24795908,African Region
+102,2004,97.16218195,African Region
+102,2005,97.1588803,African Region
+102,2006,97.07309238,African Region
+102,2007,96.73985641,African Region
+102,2008,96.57157678,African Region
+102,2009,96.56825348,African Region
+102,2010,96.31748212,African Region
+102,2011,95.90174354,African Region
+102,2012,95.65096128,African Region
+102,2013,95.73009707,African Region
+102,2014,95.47930387,African Region
+102,2015,94.56865815,African Region
+102,2016,94.40033487,African Region
+102,2017,93.98456344,African Region
+102,2018,93.81622915,African Region
+102,2019,93.52848927,African Region
+102,2020,93.24074386,African Region
+102,2021,92.95299292,African Region
+103,2000,82.77443944,Region of the Americas
+103,2001,82.51423146,Region of the Americas
+103,2002,81.93373561,Region of the Americas
+103,2003,81.73711075,Region of the Americas
+103,2004,81.62405152,Region of the Americas
+103,2005,80.61297137,Region of the Americas
+103,2006,80.50747422,Region of the Americas
+103,2007,79.95543953,Region of the Americas
+103,2008,83.03172135,Region of the Americas
+103,2009,83.01493792,Region of the Americas
+103,2010,83.26084615,Region of the Americas
+103,2011,82.48373866,Region of the Americas
+103,2012,82.3436824,Region of the Americas
+103,2013,82.20362904,Region of the Americas
+103,2014,81.84711872,Region of the Americas
+103,2015,82.09547014,Region of the Americas
+103,2016,82.30902276,Region of the Americas
+103,2017,82.60234195,Region of the Americas
+103,2018,82.89750093,Region of the Americas
+103,2019,82.61193282,Region of the Americas
+103,2020,82.33666169,Region of the Americas
+103,2021,82.04652495,Region of the Americas
+104,2000,85.39857886,Eastern Mediterranean Region
+104,2001,85.11101648,Eastern Mediterranean Region
+104,2002,84.38996774,Eastern Mediterranean Region
+104,2003,83.81224138,Eastern Mediterranean Region
+104,2004,83.09163201,Eastern Mediterranean Region
+104,2005,82.46516473,Eastern Mediterranean Region
+104,2006,81.93103508,Eastern Mediterranean Region
+104,2007,81.15633099,Eastern Mediterranean Region
+104,2008,80.37237884,Eastern Mediterranean Region
+104,2009,79.56201444,Eastern Mediterranean Region
+104,2010,79.40984035,Eastern Mediterranean Region
+104,2011,78.01361243,Eastern Mediterranean Region
+104,2012,77.96232703,Eastern Mediterranean Region
+104,2013,77.2504247,Eastern Mediterranean Region
+104,2014,76.86797397,Eastern Mediterranean Region
+104,2015,76.15521478,Eastern Mediterranean Region
+104,2016,75.93697108,Eastern Mediterranean Region
+104,2017,75.22357875,Eastern Mediterranean Region
+104,2018,74.83941777,Eastern Mediterranean Region
+104,2019,74.09743767,Eastern Mediterranean Region
+104,2020,73.59765063,Eastern Mediterranean Region
+104,2021,72.92865029,Eastern Mediterranean Region
+105,2000,90.81613859,European Region
+105,2001,89.97745791,European Region
+105,2002,89.61857204,European Region
+105,2003,89.08949231,European Region
+105,2004,88.70213757,European Region
+105,2005,88.39397412,European Region
+105,2006,88.08471354,European Region
+105,2007,88.28513089,European Region
+105,2008,87.7037413,European Region
+105,2009,87.81940337,European Region
+105,2010,87.5328561,European Region
+105,2011,87.31764556,European Region
+105,2012,87.29663265,European Region
+105,2013,87.03758605,European Region
+105,2014,86.86005327,European Region
+105,2015,86.52030588,European Region
+105,2016,86.18198179,European Region
+105,2017,86.05967458,European Region
+105,2018,85.60208305,European Region
+105,2019,85.28903186,European Region
+105,2020,84.91576967,European Region
+105,2021,84.16750451,European Region
+106,2000,85.6738112,Eastern Mediterranean Region
+106,2001,85.84360589,Eastern Mediterranean Region
+106,2002,85.6661517,Eastern Mediterranean Region
+106,2003,85.42013355,Eastern Mediterranean Region
+106,2004,85.1782425,Eastern Mediterranean Region
+106,2005,84.88080983,Eastern Mediterranean Region
+106,2006,84.43808202,Eastern Mediterranean Region
+106,2007,84.65707913,Eastern Mediterranean Region
+106,2008,84.54876118,Eastern Mediterranean Region
+106,2009,84.1185546,Eastern Mediterranean Region
+106,2010,83.21671703,Eastern Mediterranean Region
+106,2011,82.07515255,Eastern Mediterranean Region
+106,2012,82.52790469,Eastern Mediterranean Region
+106,2013,82.26111206,Eastern Mediterranean Region
+106,2014,81.81973742,Eastern Mediterranean Region
+106,2015,81.01601625,Eastern Mediterranean Region
+106,2016,81.51569169,Eastern Mediterranean Region
+106,2017,80.65366283,Eastern Mediterranean Region
+106,2018,80.25618751,Eastern Mediterranean Region
+106,2019,79.96426843,Eastern Mediterranean Region
+106,2020,79.35902908,Eastern Mediterranean Region
+106,2021,78.67423435,Eastern Mediterranean Region
+107,2000,90.24719237,Region of the Americas
+107,2001,88.83150178,Region of the Americas
+107,2002,89.29930945,Region of the Americas
+107,2003,88.57396778,Region of the Americas
+107,2004,88.29654062,Region of the Americas
+107,2005,88.10483779,Region of the Americas
+107,2006,86.93127489,Region of the Americas
+107,2007,86.43648691,Region of the Americas
+107,2008,86.55503492,Region of the Americas
+107,2009,85.93619357,Region of the Americas
+107,2010,85.29405803,Region of the Americas
+107,2011,85.35863703,Region of the Americas
+107,2012,83.9271431,Region of the Americas
+107,2013,84.78591557,Region of the Americas
+107,2014,82.6282899,Region of the Americas
+107,2015,81.38892296,Region of the Americas
+107,2016,82.1663266,Region of the Americas
+107,2017,81.80330336,Region of the Americas
+107,2018,81.10702805,Region of the Americas
+107,2019,80.59073482,Region of the Americas
+107,2020,80.07279958,Region of the Americas
+107,2021,79.58186584,Region of the Americas
+109,2000,97.2089714,African Region
+109,2001,97.26674294,African Region
+109,2002,97.20251835,African Region
+109,2003,97.18581625,African Region
+109,2004,97.06763261,African Region
+109,2005,96.99718603,African Region
+109,2006,96.94070068,African Region
+109,2007,96.75754687,African Region
+109,2008,96.51941452,African Region
+109,2009,96.2853571,African Region
+109,2010,95.60989475,African Region
+109,2011,94.89855892,African Region
+109,2012,94.30480575,African Region
+109,2013,93.75383104,African Region
+109,2014,92.92075436,African Region
+109,2015,92.05354074,African Region
+109,2016,91.71170073,African Region
+109,2017,90.93628236,African Region
+109,2018,90.90243171,African Region
+109,2019,90.81717622,African Region
+109,2020,90.60002359,African Region
+109,2021,90.6494152,African Region
+110,2000,80.34249501,Eastern Mediterranean Region
+110,2001,79.93201914,Eastern Mediterranean Region
+110,2002,79.33668167,Eastern Mediterranean Region
+110,2003,78.75185805,Eastern Mediterranean Region
+110,2004,78.41683262,Eastern Mediterranean Region
+110,2005,77.83051229,Eastern Mediterranean Region
+110,2006,77.48748924,Eastern Mediterranean Region
+110,2007,76.68848911,Eastern Mediterranean Region
+110,2008,76.32373231,Eastern Mediterranean Region
+110,2009,75.90038732,Eastern Mediterranean Region
+110,2010,75.79025351,Eastern Mediterranean Region
+110,2011,74.68928165,Eastern Mediterranean Region
+110,2012,74.15793411,Eastern Mediterranean Region
+110,2013,73.65405678,Eastern Mediterranean Region
+110,2014,72.89475754,Eastern Mediterranean Region
+110,2015,72.05215588,Eastern Mediterranean Region
+110,2016,71.70361222,Eastern Mediterranean Region
+110,2017,71.12640954,Eastern Mediterranean Region
+110,2018,70.71234313,Eastern Mediterranean Region
+110,2019,70.12690057,Eastern Mediterranean Region
+110,2020,69.57408977,Eastern Mediterranean Region
+110,2021,69.02041554,Eastern Mediterranean Region
+111,2000,83.69342135,European Region
+111,2001,82.83991382,European Region
+111,2002,84.16068424,European Region
+111,2003,83.32552655,European Region
+111,2004,85.01393925,European Region
+111,2005,82.77781377,European Region
+111,2006,83.0081639,European Region
+111,2007,81.12963109,European Region
+111,2008,81.6736067,European Region
+111,2009,81.68258518,European Region
+111,2010,82.51699594,European Region
+111,2011,83.34595788,European Region
+111,2012,83.82993625,European Region
+111,2013,82.46474183,European Region
+111,2014,81.90732425,European Region
+111,2015,80.77271071,European Region
+111,2016,81.91464413,European Region
+111,2017,81.6920625,European Region
+111,2018,81.58832045,European Region
+111,2019,82.04200527,European Region
+111,2020,82.25153417,European Region
+111,2021,82.36833538,European Region
+112,2000,92.80163509,Region of the Americas
+112,2001,92.65682327,Region of the Americas
+112,2002,92.57392275,Region of the Americas
+112,2003,92.39462832,Region of the Americas
+112,2004,92.29439183,Region of the Americas
+112,2005,92.13826546,Region of the Americas
+112,2006,92.10516645,Region of the Americas
+112,2007,92.01311465,Region of the Americas
+112,2008,91.89105594,Region of the Americas
+112,2009,91.97537371,Region of the Americas
+112,2010,91.98177037,Region of the Americas
+112,2011,91.59941366,Region of the Americas
+112,2012,91.40648892,Region of the Americas
+112,2013,91.4647521,Region of the Americas
+112,2014,91.63541894,Region of the Americas
+112,2015,91.65390365,Region of the Americas
+112,2016,91.01975066,Region of the Americas
+112,2017,90.69156907,Region of the Americas
+112,2018,90.54997436,Region of the Americas
+112,2019,90.50902052,Region of the Americas
+112,2020,89.90052584,Region of the Americas
+112,2021,90.12831215,Region of the Americas
+113,2000,87.60555226,Western Pacific Region
+113,2001,87.42355555,Western Pacific Region
+113,2002,87.06267087,Western Pacific Region
+113,2003,86.62885636,Western Pacific Region
+113,2004,85.96862107,Western Pacific Region
+113,2005,85.5613095,Western Pacific Region
+113,2006,84.86540719,Western Pacific Region
+113,2007,83.91677053,Western Pacific Region
+113,2008,83.16257556,Western Pacific Region
+113,2009,82.16913106,Western Pacific Region
+113,2010,80.24041284,Western Pacific Region
+113,2011,77.73155277,Western Pacific Region
+113,2012,76.37109927,Western Pacific Region
+113,2013,74.24742411,Western Pacific Region
+113,2014,71.29945393,Western Pacific Region
+113,2015,69.38375252,Western Pacific Region
+113,2016,67.5779642,Western Pacific Region
+113,2017,66.52164783,Western Pacific Region
+113,2018,64.18189064,Western Pacific Region
+113,2019,63.38981691,Western Pacific Region
+113,2020,63.47580813,Western Pacific Region
+113,2021,61.11064293,Western Pacific Region
+114,2000,85.75006799,European Region
+114,2001,84.77062199,European Region
+114,2002,83.86978401,European Region
+114,2003,82.64027211,European Region
+114,2004,82.05122749,European Region
+114,2005,81.70218992,European Region
+114,2006,81.72255344,European Region
+114,2007,81.10801109,European Region
+114,2008,80.80850119,European Region
+114,2009,80.49290227,European Region
+114,2010,80.27413655,European Region
+114,2011,79.77151944,European Region
+114,2012,79.42849027,European Region
+114,2013,79.42715196,European Region
+114,2014,78.7397765,European Region
+114,2015,78.70576383,European Region
+114,2016,78.68378247,European Region
+114,2017,78.17684206,European Region
+114,2018,77.92665086,European Region
+114,2019,77.64175253,European Region
+114,2020,77.34624156,European Region
+114,2021,77.0602208,European Region
+115,2000,83.93801101,European Region
+115,2001,83.46489656,European Region
+115,2002,83.14715201,European Region
+115,2003,82.66486262,European Region
+115,2004,81.91551725,European Region
+115,2005,81.30966232,European Region
+115,2006,81.39206311,European Region
+115,2007,80.65886353,European Region
+115,2008,79.58558207,European Region
+115,2009,79.61706578,European Region
+115,2010,79.79685234,European Region
+115,2011,80.15718766,European Region
+115,2012,80.4447211,European Region
+115,2013,80.26217264,European Region
+115,2014,80.03636269,European Region
+115,2015,79.7271077,European Region
+115,2016,80.31371151,European Region
+115,2017,80.298392,European Region
+115,2018,80.06294732,European Region
+115,2019,80.02515765,European Region
+115,2020,79.85327076,European Region
+115,2021,79.77297888,European Region
+116,2000,71.8232292,European Region
+116,2001,71.83080362,European Region
+116,2002,74.75760216,European Region
+116,2003,76.3509877,European Region
+116,2004,77.77090588,European Region
+116,2005,77.24923872,European Region
+116,2006,77.72932499,European Region
+116,2007,76.84058604,European Region
+116,2008,76.88016775,European Region
+116,2009,76.54495416,European Region
+116,2010,77.41764972,European Region
+116,2011,77.42790711,European Region
+116,2012,76.94688601,European Region
+116,2013,76.86923625,European Region
+116,2014,75.66756908,European Region
+116,2015,75.61375533,European Region
+116,2016,75.11731276,European Region
+116,2017,76.63024103,European Region
+116,2018,76.45178128,European Region
+116,2019,77.00604008,European Region
+116,2020,76.82583716,European Region
+116,2021,76.55549872,European Region
+117,2000,90.53413148,European Region
+117,2001,90.48101536,European Region
+117,2002,91.32014444,European Region
+117,2003,90.9867097,European Region
+117,2004,91.54169557,European Region
+117,2005,91.13466534,European Region
+117,2006,90.84776527,European Region
+117,2007,90.04053839,European Region
+117,2008,89.61999436,European Region
+117,2009,89.61097279,European Region
+117,2010,89.84847317,European Region
+117,2011,89.71064137,European Region
+117,2012,89.787587,European Region
+117,2013,89.45488955,European Region
+117,2014,88.96968674,European Region
+117,2015,88.87943558,European Region
+117,2016,89.04700512,European Region
+117,2017,89.40924279,European Region
+117,2018,89.32277487,European Region
+117,2019,89.37672754,European Region
+117,2020,89.31936944,European Region
+117,2021,88.8615072,European Region
+118,2000,73.74567581,Western Pacific Region
+118,2001,73.52574408,Western Pacific Region
+118,2002,74.05849591,Western Pacific Region
+118,2003,73.15421531,Western Pacific Region
+118,2004,73.25702914,Western Pacific Region
+118,2005,73.20326572,Western Pacific Region
+118,2006,73.21163632,Western Pacific Region
+118,2007,72.9080672,Western Pacific Region
+118,2008,70.67457778,Western Pacific Region
+118,2009,71.54583206,Western Pacific Region
+118,2010,69.48668102,Western Pacific Region
+118,2011,68.4435561,Western Pacific Region
+118,2012,69.03743392,Western Pacific Region
+118,2013,69.72256613,Western Pacific Region
+118,2014,67.5885711,Western Pacific Region
+118,2015,67.43629703,Western Pacific Region
+118,2016,67.58653904,Western Pacific Region
+118,2017,68.95449789,Western Pacific Region
+118,2018,68.97262928,Western Pacific Region
+118,2019,68.90568444,Western Pacific Region
+118,2020,68.84014515,Western Pacific Region
+118,2021,68.77640212,Western Pacific Region
+119,2000,90.07032998,European Region
+119,2001,89.90546224,European Region
+119,2002,90.3351327,European Region
+119,2003,90.40632098,European Region
+119,2004,90.63936003,European Region
+119,2005,90.31273482,European Region
+119,2006,89.98912737,European Region
+119,2007,89.40736387,European Region
+119,2008,90.11828234,European Region
+119,2009,91.30131323,European Region
+119,2010,91.47320161,European Region
+119,2011,91.47475623,European Region
+119,2012,91.63392063,European Region
+119,2013,92.34012252,European Region
+119,2014,92.26675052,European Region
+119,2015,92.39342984,European Region
+119,2016,92.53036179,European Region
+119,2017,92.76967938,European Region
+119,2018,93.19602765,European Region
+119,2019,93.39076938,European Region
+119,2020,93.54083504,European Region
+119,2021,93.70355521,European Region
+120,2000,86.04615444,African Region
+120,2001,86.96791895,African Region
+120,2002,87.55562979,African Region
+120,2003,87.62826503,African Region
+120,2004,86.8707897,African Region
+120,2005,86.42539131,African Region
+120,2006,86.48964896,African Region
+120,2007,86.50242314,African Region
+120,2008,86.14329428,African Region
+120,2009,86.21788759,African Region
+120,2010,86.33155746,African Region
+120,2011,86.88732056,African Region
+120,2012,87.90542883,African Region
+120,2013,89.51361461,African Region
+120,2014,90.80818673,African Region
+120,2015,91.6134889,African Region
+120,2016,88.80230539,African Region
+120,2017,88.41198051,African Region
+120,2018,88.2906737,African Region
+120,2019,88.25058443,African Region
+120,2020,88.24673612,African Region
+120,2021,88.28546106,African Region
+121,2000,95.10821509,Region of the Americas
+121,2001,95.12657298,Region of the Americas
+121,2002,95.08919341,Region of the Americas
+121,2003,94.98750307,Region of the Americas
+121,2004,94.7875871,Region of the Americas
+121,2005,93.98492704,Region of the Americas
+121,2006,94.28250917,Region of the Americas
+121,2007,94.01286743,Region of the Americas
+121,2008,93.71057176,Region of the Americas
+121,2009,93.95151834,Region of the Americas
+121,2010,93.85793057,Region of the Americas
+121,2011,94.07011188,Region of the Americas
+121,2012,93.87468663,Region of the Americas
+121,2013,93.52079902,Region of the Americas
+121,2014,93.48740989,Region of the Americas
+121,2015,93.27296416,Region of the Americas
+121,2016,93.27064942,Region of the Americas
+121,2017,93.14367914,Region of the Americas
+121,2018,93.05791859,Region of the Americas
+121,2019,92.87926267,Region of the Americas
+121,2020,91.92853325,Region of the Americas
+121,2021,92.05281615,Region of the Americas
+123,2000,86.87060595,Western Pacific Region
+123,2001,86.72751585,Western Pacific Region
+123,2002,86.66657932,Western Pacific Region
+123,2003,86.52283283,Western Pacific Region
+123,2004,86.21379372,Western Pacific Region
+123,2005,86.06938374,Western Pacific Region
+123,2006,85.84576359,Western Pacific Region
+123,2007,85.70068292,Western Pacific Region
+123,2008,85.30782155,Western Pacific Region
+123,2009,85.16541059,Western Pacific Region
+123,2010,84.85434849,Western Pacific Region
+123,2011,84.54294282,Western Pacific Region
+123,2012,84.06934676,Western Pacific Region
+123,2013,83.83972926,Western Pacific Region
+123,2014,83.53840814,Western Pacific Region
+123,2015,83.1933206,Western Pacific Region
+123,2016,82.92555929,Western Pacific Region
+123,2017,82.51748994,Western Pacific Region
+123,2018,82.22306569,Western Pacific Region
+123,2019,81.932578,Western Pacific Region
+123,2020,81.64172969,Western Pacific Region
+123,2021,81.3505188,Western Pacific Region
+124,2000,98.5879256,African Region
+124,2001,98.63413114,African Region
+124,2002,98.57859423,African Region
+124,2003,98.42105994,African Region
+124,2004,98.2509562,African Region
+124,2005,98.07950868,African Region
+124,2006,97.99218952,African Region
+124,2007,97.81502226,African Region
+124,2008,97.64384387,African Region
+124,2009,97.47280115,African Region
+124,2010,97.384979,African Region
+124,2011,97.21436834,African Region
+124,2012,96.95616584,African Region
+124,2013,96.78656173,African Region
+124,2014,96.53047089,African Region
+124,2015,96.09230199,African Region
+124,2016,95.917262,African Region
+124,2017,95.57601256,African Region
+124,2018,95.41814307,African Region
+124,2019,95.17763231,African Region
+124,2020,94.94094665,African Region
+124,2021,94.70420315,African Region
+125,2000,89.01234481,Eastern Mediterranean Region
+125,2001,88.79524901,Eastern Mediterranean Region
+125,2002,88.02556923,Eastern Mediterranean Region
+125,2003,87.58612739,Eastern Mediterranean Region
+125,2004,87.22896106,Eastern Mediterranean Region
+125,2005,87.11300588,Eastern Mediterranean Region
+125,2006,86.92604155,Eastern Mediterranean Region
+125,2007,86.47423159,Eastern Mediterranean Region
+125,2008,85.78247108,Eastern Mediterranean Region
+125,2009,85.17889443,Eastern Mediterranean Region
+125,2010,85.32349041,Eastern Mediterranean Region
+125,2011,84.06386643,Eastern Mediterranean Region
+125,2012,83.62700456,Eastern Mediterranean Region
+125,2013,82.86015755,Eastern Mediterranean Region
+125,2014,83.07812685,Eastern Mediterranean Region
+125,2015,82.37823632,Eastern Mediterranean Region
+125,2016,82.01919604,Eastern Mediterranean Region
+125,2017,81.74372909,Eastern Mediterranean Region
+125,2018,81.44622815,Eastern Mediterranean Region
+125,2019,80.88803414,Eastern Mediterranean Region
+125,2020,80.45597099,Eastern Mediterranean Region
+125,2021,80.0236757,Eastern Mediterranean Region
+127,2000,94.14427099,Region of the Americas
+127,2001,95.58528313,Region of the Americas
+127,2002,95.3966515,Region of the Americas
+127,2003,95.12782456,Region of the Americas
+127,2004,94.77595521,Region of the Americas
+127,2005,94.42819884,Region of the Americas
+127,2006,94.16510177,Region of the Americas
+127,2007,93.87211182,Region of the Americas
+127,2008,93.76913325,Region of the Americas
+127,2009,94.14297345,Region of the Americas
+127,2010,93.62145853,Region of the Americas
+127,2011,93.64894011,Region of the Americas
+127,2012,94.15828621,Region of the Americas
+127,2013,93.9688344,Region of the Americas
+127,2014,93.92842325,Region of the Americas
+127,2015,93.79275813,Region of the Americas
+127,2016,93.81338293,Region of the Americas
+127,2017,93.68019526,Region of the Americas
+127,2018,93.53913861,Region of the Americas
+127,2019,93.49338102,Region of the Americas
+127,2020,93.17838417,Region of the Americas
+127,2021,93.18370673,Region of the Americas
+129,2000,94.13192401,African Region
+129,2001,93.87669595,African Region
+129,2002,93.45646977,African Region
+129,2003,92.87124531,African Region
+129,2004,92.03854151,African Region
+129,2005,91.37076261,African Region
+129,2006,90.78542755,African Region
+129,2007,89.95261264,African Region
+129,2008,89.36720299,African Region
+129,2009,89.02919841,African Region
+129,2010,88.19627082,African Region
+129,2011,86.95090093,African Region
+129,2012,85.70549295,African Region
+129,2013,84.70748934,African Region
+129,2014,83.54448553,African Region
+129,2015,82.38144309,African Region
+129,2016,80.80595745,African Region
+129,2017,80.5501269,African Region
+129,2018,80.2117763,African Region
+129,2019,79.48233538,African Region
+129,2020,78.71990749,African Region
+129,2021,77.95743987,African Region
+130,2000,95.39288307,Eastern Mediterranean Region
+130,2001,95.29931711,Eastern Mediterranean Region
+130,2002,95.20240291,Eastern Mediterranean Region
+130,2003,94.9491928,Eastern Mediterranean Region
+130,2004,94.76710003,Eastern Mediterranean Region
+130,2005,94.09878715,Eastern Mediterranean Region
+130,2006,93.75704815,Eastern Mediterranean Region
+130,2007,93.5804018,Eastern Mediterranean Region
+130,2008,93.32401668,Eastern Mediterranean Region
+130,2009,93.14160418,Eastern Mediterranean Region
+130,2010,92.96764714,Eastern Mediterranean Region
+130,2011,91.966663,Eastern Mediterranean Region
+130,2012,91.87144342,Eastern Mediterranean Region
+130,2013,91.94187354,Eastern Mediterranean Region
+130,2014,91.59983408,Eastern Mediterranean Region
+130,2015,89.85564552,Eastern Mediterranean Region
+130,2016,90.58581254,Eastern Mediterranean Region
+130,2017,90.49357327,Eastern Mediterranean Region
+130,2018,90.22808177,Eastern Mediterranean Region
+130,2019,89.94426601,Eastern Mediterranean Region
+130,2020,89.65679421,Eastern Mediterranean Region
+130,2021,89.36925336,Eastern Mediterranean Region
+131,2000,87.25687636,European Region
+131,2001,86.85932858,European Region
+131,2002,86.73515585,European Region
+131,2003,86.30646599,European Region
+131,2004,85.46123711,European Region
+131,2005,84.76276594,European Region
+131,2006,84.29327511,European Region
+131,2007,83.84220592,European Region
+131,2008,83.43770277,European Region
+131,2009,83.04902201,European Region
+131,2010,82.71177913,European Region
+131,2011,82.03996398,European Region
+131,2012,81.5820469,European Region
+131,2013,80.95258039,European Region
+131,2014,80.66013361,European Region
+131,2015,80.04468438,European Region
+131,2016,79.91848111,European Region
+131,2017,79.63014634,European Region
+131,2018,79.17384438,European Region
+131,2019,78.70788195,European Region
+131,2020,78.27193382,European Region
+131,2021,77.85960053,European Region
+132,2000,96.17475972,African Region
+132,2001,96.0816889,African Region
+132,2002,95.88875925,African Region
+132,2003,95.36595374,African Region
+132,2004,94.94933329,African Region
+132,2005,94.54896188,African Region
+132,2006,94.16357316,African Region
+132,2007,94.2598676,African Region
+132,2008,93.78877524,African Region
+132,2009,92.82605375,African Region
+132,2010,92.46898778,African Region
+132,2011,92.39969933,African Region
+132,2012,91.36593586,African Region
+132,2013,90.37675518,African Region
+132,2014,89.51811774,African Region
+132,2015,88.80185278,African Region
+132,2016,88.49879306,African Region
+132,2017,87.91548485,African Region
+132,2018,87.62426178,African Region
+132,2019,87.13225944,African Region
+132,2020,86.71291376,African Region
+132,2021,86.29000571,African Region
+133,2000,94.57923826,Eastern Mediterranean Region
+133,2001,94.73229002,Eastern Mediterranean Region
+133,2002,94.56350804,Eastern Mediterranean Region
+133,2003,94.50333382,Eastern Mediterranean Region
+133,2004,94.22330394,Eastern Mediterranean Region
+133,2005,93.93412018,Eastern Mediterranean Region
+133,2006,93.48418649,Eastern Mediterranean Region
+133,2007,92.89688725,Eastern Mediterranean Region
+133,2008,92.30984988,Eastern Mediterranean Region
+133,2009,92.05268697,Eastern Mediterranean Region
+133,2010,91.79373077,Eastern Mediterranean Region
+133,2011,91.29341134,Eastern Mediterranean Region
+133,2012,90.96605222,Eastern Mediterranean Region
+133,2013,90.22049564,Eastern Mediterranean Region
+133,2014,89.60963778,Eastern Mediterranean Region
+133,2015,88.93691278,Eastern Mediterranean Region
+133,2016,88.54913587,Eastern Mediterranean Region
+133,2017,88.4619966,Eastern Mediterranean Region
+133,2018,88.26451759,Eastern Mediterranean Region
+133,2019,88.04488013,Eastern Mediterranean Region
+133,2020,87.90419471,Eastern Mediterranean Region
+133,2021,87.72457576,Eastern Mediterranean Region
+134,2000,93.18623628,Region of the Americas
+134,2001,93.35493197,Region of the Americas
+134,2002,93.35038677,Region of the Americas
+134,2003,93.33845169,Region of the Americas
+134,2004,92.96238533,Region of the Americas
+134,2005,92.27662492,Region of the Americas
+134,2006,92.21290538,Region of the Americas
+134,2007,92.04518263,Region of the Americas
+134,2008,91.95243186,Region of the Americas
+134,2009,92.40371626,Region of the Americas
+134,2010,91.94103609,Region of the Americas
+134,2011,91.70901281,Region of the Americas
+134,2012,91.62196108,Region of the Americas
+134,2013,91.18326061,Region of the Americas
+134,2014,92.01485215,Region of the Americas
+134,2015,92.21017164,Region of the Americas
+134,2016,92.05594283,Region of the Americas
+134,2017,91.97073903,Region of the Americas
+134,2018,91.81944994,Region of the Americas
+134,2019,91.81902081,Region of the Americas
+134,2020,91.42864246,Region of the Americas
+134,2021,91.43703715,Region of the Americas
+135,2000,90.57209147,Region of the Americas
+135,2001,90.48193412,Region of the Americas
+135,2002,90.38568644,Region of the Americas
+135,2003,90.19606789,Region of the Americas
+135,2004,89.74904657,Region of the Americas
+135,2005,89.54271068,Region of the Americas
+135,2006,89.34800104,Region of the Americas
+135,2007,89.15901094,Region of the Americas
+135,2008,88.96063682,Region of the Americas
+135,2009,88.6757856,Region of the Americas
+135,2010,88.30987508,Region of the Americas
+135,2011,88.11506134,Region of the Americas
+135,2012,88.08268628,Region of the Americas
+135,2013,87.89285593,Region of the Americas
+135,2014,87.77517983,Region of the Americas
+135,2015,87.65953791,Region of the Americas
+135,2016,87.80684623,Region of the Americas
+135,2017,87.63137343,Region of the Americas
+135,2018,87.37098029,Region of the Americas
+135,2019,87.18816207,Region of the Americas
+135,2020,87.00752787,Region of the Americas
+135,2021,86.8274776,Region of the Americas
+136,2000,96.99914262,African Region
+136,2001,96.90652661,African Region
+136,2002,96.82536564,African Region
+136,2003,96.72016765,African Region
+136,2004,96.48469343,African Region
+136,2005,96.39495542,African Region
+136,2006,96.30328066,African Region
+136,2007,96.46301994,African Region
+136,2008,96.29143814,African Region
+136,2009,96.28600993,African Region
+136,2010,96.10516191,African Region
+136,2011,96.01555397,African Region
+136,2012,95.83797144,African Region
+136,2013,95.58505752,African Region
+136,2014,95.32992595,African Region
+136,2015,95.08041829,African Region
+136,2016,94.81791162,African Region
+136,2017,94.69809557,African Region
+136,2018,94.53654006,African Region
+136,2019,94.386611,African Region
+136,2020,94.22663585,African Region
+136,2021,94.13062554,African Region
+137,2000,83.2535016,Eastern Mediterranean Region
+137,2001,82.6225862,Eastern Mediterranean Region
+137,2002,83.55709411,Eastern Mediterranean Region
+137,2003,83.97486072,Eastern Mediterranean Region
+137,2004,80.89151192,Eastern Mediterranean Region
+137,2005,81.60033364,Eastern Mediterranean Region
+137,2006,81.82319545,Eastern Mediterranean Region
+137,2007,82.06384246,Eastern Mediterranean Region
+137,2008,81.44788785,Eastern Mediterranean Region
+137,2009,80.62370297,Eastern Mediterranean Region
+137,2010,80.05730308,Eastern Mediterranean Region
+137,2011,79.86639622,Eastern Mediterranean Region
+137,2012,80.7286791,Eastern Mediterranean Region
+137,2013,79.03170197,Eastern Mediterranean Region
+137,2014,80.54619065,Eastern Mediterranean Region
+137,2015,79.9955183,Eastern Mediterranean Region
+137,2016,79.10939286,Eastern Mediterranean Region
+137,2017,79.78630988,Eastern Mediterranean Region
+137,2018,78.74355262,Eastern Mediterranean Region
+137,2019,76.56217413,Eastern Mediterranean Region
+137,2020,77.67166865,Eastern Mediterranean Region
+137,2021,78.69490451,Eastern Mediterranean Region
+138,2000,77.21207873,Region of the Americas
+138,2001,75.64043316,Region of the Americas
+138,2002,76.04691547,Region of the Americas
+138,2003,75.53488104,Region of the Americas
+138,2004,77.50480258,Region of the Americas
+138,2005,75.58042462,Region of the Americas
+138,2006,75.91074442,Region of the Americas
+138,2007,77.04512701,Region of the Americas
+138,2008,77.11918207,Region of the Americas
+138,2009,76.36838952,Region of the Americas
+138,2010,76.43473156,Region of the Americas
+138,2011,75.92366833,Region of the Americas
+138,2012,79.28303415,Region of the Americas
+138,2013,79.59953667,Region of the Americas
+138,2014,79.3446188,Region of the Americas
+138,2015,79.16638403,Region of the Americas
+138,2016,79.31162301,Region of the Americas
+138,2017,78.97282647,Region of the Americas
+138,2018,80.11346079,Region of the Americas
+138,2019,80.170614,Region of the Americas
+138,2020,80.16127281,Region of the Americas
+138,2021,80.15910342,Region of the Americas
+140,2000,92.81935701,Region of the Americas
+140,2001,92.76601547,Region of the Americas
+140,2002,92.62373584,Region of the Americas
+140,2003,92.35636717,Region of the Americas
+140,2004,92.24674076,Region of the Americas
+140,2005,91.55361124,Region of the Americas
+140,2006,91.03091884,Region of the Americas
+140,2007,90.44524827,Region of the Americas
+140,2008,90.24964437,Region of the Americas
+140,2009,90.32075786,Region of the Americas
+140,2010,90.34926986,Region of the Americas
+140,2011,87.69791967,Region of the Americas
+140,2012,89.88601313,Region of the Americas
+140,2013,89.66851218,Region of the Americas
+140,2014,89.36464865,Region of the Americas
+140,2015,87.07395656,Region of the Americas
+140,2016,88.78613657,Region of the Americas
+140,2017,88.39822815,Region of the Americas
+140,2018,88.53652785,Region of the Americas
+140,2019,88.66234898,Region of the Americas
+140,2020,88.35806465,Region of the Americas
+140,2021,87.22927316,Region of the Americas
+141,2000,89.23306258,African Region
+141,2001,89.11850051,African Region
+141,2002,88.6747574,African Region
+141,2003,87.73602514,African Region
+141,2004,87.29232883,African Region
+141,2005,86.28929892,African Region
+141,2006,85.66670763,African Region
+141,2007,84.38924177,African Region
+141,2008,83.13577568,African Region
+141,2009,81.90628785,African Region
+141,2010,80.82302531,African Region
+141,2011,79.40387542,African Region
+141,2012,78.38743424,African Region
+141,2013,75.6349442,African Region
+141,2014,73.80040395,African Region
+141,2015,72.47976364,African Region
+141,2016,71.20303563,African Region
+141,2017,70.22791815,African Region
+141,2018,69.38104031,African Region
+141,2019,68.36167672,African Region
+141,2020,67.34124693,African Region
+141,2021,66.32099843,African Region
+142,2000,72.82020841,Region of the Americas
+142,2001,74.25706066,Region of the Americas
+142,2002,74.99101901,Region of the Americas
+142,2003,73.56847705,Region of the Americas
+142,2004,72.98341798,Region of the Americas
+142,2005,69.87288286,Region of the Americas
+142,2006,70.6094416,Region of the Americas
+142,2007,70.8584472,Region of the Americas
+142,2008,73.20152505,Region of the Americas
+142,2009,72.84516748,Region of the Americas
+142,2010,71.69321064,Region of the Americas
+142,2011,64.59335574,Region of the Americas
+142,2012,64.93300719,Region of the Americas
+142,2013,65.58943649,Region of the Americas
+142,2014,71.64462062,Region of the Americas
+142,2015,71.43683622,Region of the Americas
+142,2016,70.77425985,Region of the Americas
+142,2017,70.92838092,Region of the Americas
+142,2018,70.87744611,Region of the Americas
+142,2019,70.8034584,Region of the Americas
+142,2020,70.31999912,Region of the Americas
+142,2021,69.64789702,Region of the Americas
+143,2000,80.96043653,Western Pacific Region
+143,2001,81.17993695,Western Pacific Region
+143,2002,80.46614204,Western Pacific Region
+143,2003,81.16897837,Western Pacific Region
+143,2004,80.61534062,Western Pacific Region
+143,2005,80.4691281,Western Pacific Region
+143,2006,80.23985253,Western Pacific Region
+143,2007,81.15718169,Western Pacific Region
+143,2008,79.36581387,Western Pacific Region
+143,2009,79.14853094,Western Pacific Region
+143,2010,79.33182558,Western Pacific Region
+143,2011,78.44650227,Western Pacific Region
+143,2012,78.71365919,Western Pacific Region
+143,2013,79.32100588,Western Pacific Region
+143,2014,78.52798394,Western Pacific Region
+143,2015,77.90396654,Western Pacific Region
+143,2016,77.61975471,Western Pacific Region
+143,2017,77.92200809,Western Pacific Region
+143,2018,78.08665044,Western Pacific Region
+143,2019,77.98860326,Western Pacific Region
+143,2020,77.87995155,Western Pacific Region
+143,2021,77.7685482,Western Pacific Region
+145,2000,87.50364811,Western Pacific Region
+145,2001,87.3748737,Western Pacific Region
+145,2002,87.24280305,Western Pacific Region
+145,2003,87.19393647,Western Pacific Region
+145,2004,86.98013229,Western Pacific Region
+145,2005,86.76802574,Western Pacific Region
+145,2006,86.63704768,Western Pacific Region
+145,2007,86.09460758,Western Pacific Region
+145,2008,85.79876284,Western Pacific Region
+145,2009,85.58495774,Western Pacific Region
+145,2010,85.28936633,Western Pacific Region
+145,2011,84.90735286,Western Pacific Region
+145,2012,84.69223504,Western Pacific Region
+145,2013,84.47596638,Western Pacific Region
+145,2014,84.26204153,Western Pacific Region
+145,2015,83.96412504,Western Pacific Region
+145,2016,83.66579125,Western Pacific Region
+145,2017,83.3685341,Western Pacific Region
+145,2018,83.06967254,Western Pacific Region
+145,2019,82.82033619,Western Pacific Region
+145,2020,82.57013518,Western Pacific Region
+145,2021,82.31984062,Western Pacific Region
+147,2000,95.58662159,African Region
+147,2001,95.40236811,African Region
+147,2002,95.34342388,African Region
+147,2003,95.58036589,African Region
+147,2004,95.36658902,African Region
+147,2005,95.24688234,African Region
+147,2006,94.80485403,African Region
+147,2007,94.35260191,African Region
+147,2008,93.9724733,African Region
+147,2009,93.70652147,African Region
+147,2010,93.26121643,African Region
+147,2011,92.70432507,African Region
+147,2012,92.26540791,African Region
+147,2013,91.86258763,African Region
+147,2014,92.41132177,African Region
+147,2015,92.35928979,African Region
+147,2016,91.98522121,African Region
+147,2017,91.78757439,African Region
+147,2018,91.53895056,African Region
+147,2019,91.27474951,African Region
+147,2020,91.00031373,African Region
+147,2021,90.7057272,African Region
+148,2000,69.62220438,South-East Asia Region
+148,2001,68.97493106,South-East Asia Region
+148,2002,68.32696497,South-East Asia Region
+148,2003,67.51332887,South-East Asia Region
+148,2004,66.52877457,South-East Asia Region
+148,2005,66.0969309,South-East Asia Region
+148,2006,65.1500847,South-East Asia Region
+148,2007,64.27467031,South-East Asia Region
+148,2008,63.6492588,South-East Asia Region
+148,2009,63.56946876,South-East Asia Region
+148,2010,63.59687444,South-East Asia Region
+148,2011,62.85769222,South-East Asia Region
+148,2012,63.19557366,South-East Asia Region
+148,2013,62.88724255,South-East Asia Region
+148,2014,62.93960939,South-East Asia Region
+148,2015,63.54247416,South-East Asia Region
+148,2016,63.81400182,South-East Asia Region
+148,2017,63.75828471,South-East Asia Region
+148,2018,63.86159085,South-East Asia Region
+148,2019,64.03329801,South-East Asia Region
+148,2020,64.26932772,South-East Asia Region
+148,2021,64.47893085,South-East Asia Region
+149,2000,94.54536785,Region of the Americas
+149,2001,93.62415514,Region of the Americas
+149,2002,94.29033797,Region of the Americas
+149,2003,94.11581552,Region of the Americas
+149,2004,93.7554159,Region of the Americas
+149,2005,93.78731605,Region of the Americas
+149,2006,93.53366227,Region of the Americas
+149,2007,93.12113816,Region of the Americas
+149,2008,93.12642758,Region of the Americas
+149,2009,93.30388294,Region of the Americas
+149,2010,93.27667741,Region of the Americas
+149,2011,93.19305399,Region of the Americas
+149,2012,93.50843241,Region of the Americas
+149,2013,93.25468044,Region of the Americas
+149,2014,93.11894948,Region of the Americas
+149,2015,92.98229473,Region of the Americas
+149,2016,92.92719122,Region of the Americas
+149,2017,92.70614792,Region of the Americas
+149,2018,92.7900526,Region of the Americas
+149,2019,92.81295004,Region of the Americas
+149,2020,92.73141122,Region of the Americas
+149,2021,92.22308965,Region of the Americas
+151,2000,88.60400156,Region of the Americas
+151,2001,88.74403362,Region of the Americas
+151,2002,89.31353259,Region of the Americas
+151,2003,89.5522075,Region of the Americas
+151,2004,89.5643104,Region of the Americas
+151,2005,89.22948682,Region of the Americas
+151,2006,89.39424638,Region of the Americas
+151,2007,88.95866481,Region of the Americas
+151,2008,88.70636678,Region of the Americas
+151,2009,88.90943878,Region of the Americas
+151,2010,88.55121723,Region of the Americas
+151,2011,88.89093276,Region of the Americas
+151,2012,89.37089152,Region of the Americas
+151,2013,89.3089659,Region of the Americas
+151,2014,89.81542886,Region of the Americas
+151,2015,89.74907565,Region of the Americas
+151,2016,89.68744595,Region of the Americas
+151,2017,89.67259562,Region of the Americas
+151,2018,89.55418321,Region of the Americas
+151,2019,90.21137643,Region of the Americas
+151,2020,90.35095554,Region of the Americas
+151,2021,90.45347093,Region of the Americas
+152,2000,95.42071448,African Region
+152,2001,95.63730321,African Region
+152,2002,95.16772333,African Region
+152,2003,94.94203717,African Region
+152,2004,94.40957954,African Region
+152,2005,94.81312883,African Region
+152,2006,94.64776112,African Region
+152,2007,95.33153257,African Region
+152,2008,95.76592868,African Region
+152,2009,95.36026071,African Region
+152,2010,94.77563557,African Region
+152,2011,94.17666771,African Region
+152,2012,94.00221925,African Region
+152,2013,93.61011234,African Region
+152,2014,93.00325011,African Region
+152,2015,92.64418602,African Region
+152,2016,92.21659276,African Region
+152,2017,91.39525804,African Region
+152,2018,90.84036752,African Region
+152,2019,90.29932921,African Region
+152,2020,89.83674576,African Region
+152,2021,89.34782349,African Region
+153,2000,76.36230095,European Region
+153,2001,78.61817762,European Region
+153,2002,78.13006886,European Region
+153,2003,78.00984758,European Region
+153,2004,79.58618215,European Region
+153,2005,78.06520147,European Region
+153,2006,78.20362213,European Region
+153,2007,77.26109276,European Region
+153,2008,76.44963391,European Region
+153,2009,76.3220706,European Region
+153,2010,77.44953332,European Region
+153,2011,76.06548751,European Region
+153,2012,75.70325261,European Region
+153,2013,75.87293763,European Region
+153,2014,72.63090779,European Region
+153,2015,71.8853623,European Region
+153,2016,73.53244247,European Region
+153,2017,74.30867417,European Region
+153,2018,74.8035797,European Region
+153,2019,74.83019315,European Region
+153,2020,75.12009669,European Region
+153,2021,75.34242491,European Region
+154,2000,98.65114529,African Region
+154,2001,98.64472842,African Region
+154,2002,98.63814334,African Region
+154,2003,98.54905175,African Region
+154,2004,98.45993441,African Region
+154,2005,98.4532721,African Region
+154,2006,98.36410297,African Region
+154,2007,98.19242692,African Region
+154,2008,98.02072471,African Region
+154,2009,97.84899626,African Region
+154,2010,97.75972233,African Region
+154,2011,97.42297932,African Region
+154,2012,97.2511715,African Region
+154,2013,97.07933702,African Region
+154,2014,96.8249949,African Region
+154,2015,96.48814503,African Region
+154,2016,96.39871083,African Region
+154,2017,96.22676866,African Region
+154,2018,96.05479931,African Region
+154,2019,95.87396959,African Region
+154,2020,95.69311246,African Region
+154,2021,95.51222784,African Region
+155,2000,93.47925556,African Region
+155,2001,93.37575612,African Region
+155,2002,93.35415566,African Region
+155,2003,93.57946608,African Region
+155,2004,93.55758332,African Region
+155,2005,93.6176637,African Region
+155,2006,93.43016608,African Region
+155,2007,93.16005142,African Region
+155,2008,92.725561,African Region
+155,2009,92.29020975,African Region
+155,2010,92.01968161,African Region
+155,2011,90.84206572,African Region
+155,2012,90.24133422,African Region
+155,2013,89.80542329,African Region
+155,2014,89.12192769,African Region
+155,2015,87.6134804,African Region
+155,2016,88.00194956,African Region
+155,2017,87.48298443,African Region
+155,2018,87.04635467,African Region
+155,2019,86.56581095,African Region
+155,2020,86.08511997,African Region
+155,2021,85.60428082,African Region
+156,2000,92.45577683,Region of the Americas
+156,2001,92.26286909,Region of the Americas
+156,2002,91.89948445,Region of the Americas
+156,2003,91.20468451,Region of the Americas
+156,2004,90.42705559,Region of the Americas
+156,2005,89.98008028,Region of the Americas
+156,2006,89.69890992,Region of the Americas
+156,2007,89.0037417,Region of the Americas
+156,2008,88.89839043,Region of the Americas
+156,2009,88.35807645,Region of the Americas
+156,2010,87.74825387,Region of the Americas
+156,2011,87.22070694,Region of the Americas
+156,2012,86.36395242,Region of the Americas
+156,2013,85.461281,Region of the Americas
+156,2014,85.25363629,Region of the Americas
+156,2015,84.20856755,Region of the Americas
+156,2016,82.39057038,Region of the Americas
+156,2017,82.56789182,Region of the Americas
+156,2018,82.07878204,Region of the Americas
+156,2019,81.2772249,Region of the Americas
+156,2020,81.19842941,Region of the Americas
+156,2021,80.30398361,Region of the Americas
+157,2000,61.86901745,European Region
+157,2001,60.59016096,European Region
+157,2002,59.5245461,European Region
+157,2003,61.9437227,European Region
+157,2004,61.34479448,European Region
+157,2005,61.43560812,European Region
+157,2006,60.26237637,European Region
+157,2007,59.2367953,European Region
+157,2008,58.97789026,European Region
+157,2009,57.85192853,European Region
+157,2010,59.86437562,European Region
+157,2011,53.97010925,European Region
+157,2012,55.86161534,European Region
+157,2013,56.54763691,European Region
+157,2014,58.13587786,European Region
+157,2015,55.31622963,European Region
+157,2016,52.55839932,European Region
+157,2017,52.62562653,European Region
+157,2018,53.52490193,European Region
+157,2019,53.22154919,European Region
+157,2020,53.51398553,European Region
+157,2021,54.25363427,European Region
+158,2000,92.48016094,Western Pacific Region
+158,2001,92.54463792,Western Pacific Region
+158,2002,92.27905359,Western Pacific Region
+158,2003,92.09558708,Western Pacific Region
+158,2004,91.66482631,Western Pacific Region
+158,2005,91.72887841,Western Pacific Region
+158,2006,91.54542911,Western Pacific Region
+158,2007,91.52659488,Western Pacific Region
+158,2008,91.42542869,Western Pacific Region
+158,2009,91.73662902,Western Pacific Region
+158,2010,91.14086095,Western Pacific Region
+158,2011,90.70956769,Western Pacific Region
+158,2012,90.77323876,Western Pacific Region
+158,2013,90.75426688,Western Pacific Region
+158,2014,90.65267295,Western Pacific Region
+158,2015,90.46831797,Western Pacific Region
+158,2016,90.44894295,Western Pacific Region
+158,2017,90.18206437,Western Pacific Region
+158,2018,90.00353366,Western Pacific Region
+158,2019,89.88873775,Western Pacific Region
+158,2020,89.79521022,Western Pacific Region
+158,2021,89.65318857,Western Pacific Region
+159,2000,97.7156083,African Region
+159,2001,97.62582681,African Region
+159,2002,97.53602187,African Region
+159,2003,97.44619175,African Region
+159,2004,97.27383083,African Region
+159,2005,97.18391766,African Region
+159,2006,97.01149032,African Region
+159,2007,96.83903729,African Region
+159,2008,96.7490238,African Region
+159,2009,96.57653639,African Region
+159,2010,96.4039848,African Region
+159,2011,96.14893021,African Region
+159,2012,95.8938199,African Region
+159,2013,95.63868135,African Region
+159,2014,95.30102679,African Region
+159,2015,95.04581608,African Region
+159,2016,94.79057404,African Region
+159,2017,94.3703282,African Region
+159,2018,94.1150089,African Region
+159,2019,93.80474915,African Region
+159,2020,93.46134167,African Region
+159,2021,93.17001582,African Region
+160,2000,90.18090079,European Region
+160,2001,91.65946969,European Region
+160,2002,93.29774369,European Region
+160,2003,92.61842649,European Region
+160,2004,91.86749919,European Region
+160,2005,91.5993704,European Region
+160,2006,91.77156874,European Region
+160,2007,90.5678678,European Region
+160,2008,91.30705257,European Region
+160,2009,92.71578324,European Region
+160,2010,92.04298378,European Region
+160,2011,92.12370702,European Region
+160,2012,91.74615768,European Region
+160,2013,90.66611213,European Region
+160,2014,90.23900044,European Region
+160,2015,89.62836377,European Region
+160,2016,90.4591188,European Region
+160,2017,89.95619381,European Region
+160,2018,89.66253212,European Region
+160,2019,90.80223615,European Region
+160,2020,91.08780898,European Region
+160,2021,91.09071895,European Region
+161,2000,82.21628029,European Region
+161,2001,82.12202633,European Region
+161,2002,81.61533951,European Region
+161,2003,81.02754152,European Region
+161,2004,78.5554432,European Region
+161,2005,78.18610158,European Region
+161,2006,78.08084177,European Region
+161,2007,77.56786193,European Region
+161,2008,77.21019886,European Region
+161,2009,77.03503409,European Region
+161,2010,76.97869545,European Region
+161,2011,75.86854501,European Region
+161,2012,75.64288286,European Region
+161,2013,75.34996515,European Region
+161,2014,74.4910766,European Region
+161,2015,75.30676836,European Region
+161,2016,74.15942589,European Region
+161,2017,73.35245701,European Region
+161,2018,72.46899763,European Region
+161,2019,71.49135725,European Region
+161,2020,70.21612928,European Region
+161,2021,70.65208093,European Region
+162,2000,91.64484439,Western Pacific Region
+162,2001,91.58472497,Western Pacific Region
+162,2002,91.36398982,Western Pacific Region
+162,2003,91.04380375,Western Pacific Region
+162,2004,90.72469121,Western Pacific Region
+162,2005,90.40824424,Western Pacific Region
+162,2006,89.91154841,Western Pacific Region
+162,2007,89.02270663,Western Pacific Region
+162,2008,88.15220989,Western Pacific Region
+162,2009,87.94953645,Western Pacific Region
+162,2010,87.69357687,Western Pacific Region
+162,2011,87.18997216,Western Pacific Region
+162,2012,86.73771359,Western Pacific Region
+162,2013,86.42677183,Western Pacific Region
+162,2014,86.36457773,Western Pacific Region
+162,2015,86.04812585,Western Pacific Region
+162,2016,86.46630862,Western Pacific Region
+162,2017,86.38849857,Western Pacific Region
+162,2018,86.51784405,Western Pacific Region
+162,2019,86.44919609,Western Pacific Region
+162,2020,86.5442333,Western Pacific Region
+162,2021,86.42759229,Western Pacific Region
+163,2000,90.35254423,Western Pacific Region
+163,2001,90.23942209,Western Pacific Region
+163,2002,90.20742887,Western Pacific Region
+163,2003,90.09316731,Western Pacific Region
+163,2004,90.06092173,Western Pacific Region
+163,2005,89.94640024,Western Pacific Region
+163,2006,89.82846534,Western Pacific Region
+163,2007,89.38029398,Western Pacific Region
+163,2008,89.09593162,Western Pacific Region
+163,2009,88.82572377,Western Pacific Region
+163,2010,88.72607317,Western Pacific Region
+163,2011,88.29670284,Western Pacific Region
+163,2012,87.77400296,Western Pacific Region
+163,2013,87.57583594,Western Pacific Region
+163,2014,87.29505325,Western Pacific Region
+163,2015,87.09661609,Western Pacific Region
+163,2016,86.98052392,Western Pacific Region
+163,2017,86.69933354,Western Pacific Region
+163,2018,86.6654488,Western Pacific Region
+163,2019,86.4573002,Western Pacific Region
+163,2020,86.24901349,Western Pacific Region
+163,2021,86.0405881,Western Pacific Region
+164,2000,82.8280803,Western Pacific Region
+164,2001,81.34979014,Western Pacific Region
+164,2002,80.58499842,Western Pacific Region
+164,2003,78.59158299,Western Pacific Region
+164,2004,79.88370577,Western Pacific Region
+164,2005,79.67540483,Western Pacific Region
+164,2006,81.30917224,Western Pacific Region
+164,2007,83.21016292,Western Pacific Region
+164,2008,81.88506812,Western Pacific Region
+164,2009,82.74202735,Western Pacific Region
+164,2010,82.00907356,Western Pacific Region
+164,2011,81.89761608,Western Pacific Region
+164,2012,79.74809825,Western Pacific Region
+164,2013,81.10841123,Western Pacific Region
+164,2014,81.6006736,Western Pacific Region
+164,2015,81.7887463,Western Pacific Region
+164,2016,80.39655181,Western Pacific Region
+164,2017,82.04750308,Western Pacific Region
+164,2018,82.06208567,Western Pacific Region
+164,2019,81.56260735,Western Pacific Region
+164,2020,80.9778587,Western Pacific Region
+164,2021,80.92148845,Western Pacific Region
+165,2000,75.99315233,Western Pacific Region
+165,2001,75.23703709,Western Pacific Region
+165,2002,74.48044351,Western Pacific Region
+165,2003,73.39343044,Western Pacific Region
+165,2004,72.14093678,Western Pacific Region
+165,2005,70.55805605,Western Pacific Region
+165,2006,69.46959774,Western Pacific Region
+165,2007,68.38063301,Western Pacific Region
+165,2008,66.96141271,Western Pacific Region
+165,2009,65.87159495,Western Pacific Region
+165,2010,64.78128823,Western Pacific Region
+165,2011,63.36076995,Western Pacific Region
+165,2012,62.51566702,Western Pacific Region
+165,2013,62.24700981,Western Pacific Region
+165,2014,62.3082165,Western Pacific Region
+165,2015,60.47179503,Western Pacific Region
+165,2016,60.20181475,Western Pacific Region
+165,2017,59.60143376,Western Pacific Region
+165,2018,59.90788939,Western Pacific Region
+165,2019,59.50554637,Western Pacific Region
+165,2020,59.10604665,Western Pacific Region
+165,2021,58.70580091,Western Pacific Region
+166,2000,89.70306326,European Region
+166,2001,89.42464681,European Region
+166,2002,89.00023843,European Region
+166,2003,88.75660734,European Region
+166,2004,88.23060978,European Region
+166,2005,87.69865176,European Region
+166,2006,87.34626321,European Region
+166,2007,86.7441717,European Region
+166,2008,86.87224895,European Region
+166,2009,87.01594997,European Region
+166,2010,86.35219087,European Region
+166,2011,85.63717825,European Region
+166,2012,86.26050744,European Region
+166,2013,86.17498414,European Region
+166,2014,86.6871066,European Region
+166,2015,86.30857141,European Region
+166,2016,86.75517223,European Region
+166,2017,87.37618077,European Region
+166,2018,87.88401615,European Region
+166,2019,88.22081694,European Region
+166,2020,88.52822565,European Region
+166,2021,88.86431462,European Region
+167,2000,96.34334034,African Region
+167,2001,96.33087498,African Region
+167,2002,96.23585095,African Region
+167,2003,96.05824674,African Region
+167,2004,95.96310876,African Region
+167,2005,95.8679134,African Region
+167,2006,95.69022198,African Region
+167,2007,95.42992816,African Region
+167,2008,95.25203578,African Region
+167,2009,94.99164659,African Region
+167,2010,94.81365836,African Region
+167,2011,94.14076839,African Region
+167,2012,93.55021513,African Region
+167,2013,93.53707475,African Region
+167,2014,92.61654247,African Region
+167,2015,91.61349053,African Region
+167,2016,91.27020408,African Region
+167,2017,90.84435496,African Region
+167,2018,90.58342799,African Region
+167,2019,90.15027383,African Region
+167,2020,89.71705827,African Region
+167,2021,89.28375981,African Region
+168,2000,97.87332972,South-East Asia Region
+168,2001,97.78570361,South-East Asia Region
+168,2002,97.6983632,South-East Asia Region
+168,2003,97.52866082,South-East Asia Region
+168,2004,97.2760966,South-East Asia Region
+168,2005,97.02270226,South-East Asia Region
+168,2006,96.43876292,South-East Asia Region
+168,2007,96.10142616,South-East Asia Region
+168,2008,95.68244824,South-East Asia Region
+168,2009,95.34468299,South-East Asia Region
+168,2010,94.92413898,South-East Asia Region
+168,2011,94.33803045,South-East Asia Region
+168,2012,94.82528883,South-East Asia Region
+168,2013,94.65164663,South-East Asia Region
+168,2014,94.47695876,South-East Asia Region
+168,2015,94.46624604,South-East Asia Region
+168,2016,94.2080829,South-East Asia Region
+168,2017,94.11650534,South-East Asia Region
+168,2018,94.02201133,South-East Asia Region
+168,2019,93.79881216,South-East Asia Region
+168,2020,93.56944395,South-East Asia Region
+168,2021,93.34596394,South-East Asia Region
+169,2000,89.485478,Region of the Americas
+169,2001,89.38401594,Region of the Americas
+169,2002,89.2820416,Region of the Americas
+169,2003,89.00082191,Region of the Americas
+169,2004,88.41112635,Region of the Americas
+169,2005,87.81471687,Region of the Americas
+169,2006,87.05253152,Region of the Americas
+169,2007,86.37331143,Region of the Americas
+169,2008,85.78173357,Region of the Americas
+169,2009,85.41720081,Region of the Americas
+169,2010,84.57216381,Region of the Americas
+169,2011,83.23214776,Region of the Americas
+169,2012,82.3044419,Region of the Americas
+169,2013,81.62408405,Region of the Americas
+169,2014,82.59324869,Region of the Americas
+169,2015,82.98495166,Region of the Americas
+169,2016,83.62400131,Region of the Americas
+169,2017,83.60310751,Region of the Americas
+169,2018,84.73684917,Region of the Americas
+169,2019,85.87049352,Region of the Americas
+169,2020,87.00404011,Region of the Americas
+169,2021,88.1374885,Region of the Americas
+170,2000,85.59693274,European Region
+170,2001,85.31201573,European Region
+170,2002,84.77834374,European Region
+170,2003,84.49320402,European Region
+170,2004,84.06771046,European Region
+170,2005,84.0915796,European Region
+170,2006,84.03854035,European Region
+170,2007,83.6819448,European Region
+170,2008,83.83278447,European Region
+170,2009,84.12123548,European Region
+170,2010,84.19757303,European Region
+170,2011,83.144255,European Region
+170,2012,83.49528427,European Region
+170,2013,83.84531335,European Region
+170,2014,85.18358545,European Region
+170,2015,84.87254225,European Region
+170,2016,84.80939051,European Region
+170,2017,84.41582201,European Region
+170,2018,83.94069933,European Region
+170,2019,84.13062197,European Region
+170,2020,83.78535612,European Region
+170,2021,83.46380743,European Region
+171,2000,89.96112329,Western Pacific Region
+171,2001,89.98691394,Western Pacific Region
+171,2002,89.92760839,Western Pacific Region
+171,2003,89.8680362,Western Pacific Region
+171,2004,89.90513609,Western Pacific Region
+171,2005,89.74532897,Western Pacific Region
+171,2006,89.70147534,Western Pacific Region
+171,2007,89.49173346,Western Pacific Region
+171,2008,89.2852877,Western Pacific Region
+171,2009,89.0791248,Western Pacific Region
+171,2010,88.83104531,Western Pacific Region
+171,2011,88.56416492,Western Pacific Region
+171,2012,88.43526598,Western Pacific Region
+171,2013,88.30608914,Western Pacific Region
+171,2014,88.17316786,Western Pacific Region
+171,2015,88.0390392,Western Pacific Region
+171,2016,88.15087035,Western Pacific Region
+171,2017,87.94520996,Western Pacific Region
+171,2018,87.90402247,Western Pacific Region
+171,2019,87.92788548,Western Pacific Region
+171,2020,87.62825186,Western Pacific Region
+171,2021,87.49725317,Western Pacific Region
+172,2000,85.46829996,European Region
+172,2001,84.08237931,European Region
+172,2002,83.6969737,European Region
+172,2003,83.73355259,European Region
+172,2004,83.33540144,European Region
+172,2005,82.90426331,European Region
+172,2006,82.30930167,European Region
+172,2007,81.28537252,European Region
+172,2008,81.81447997,European Region
+172,2009,82.63400384,European Region
+172,2010,83.02737669,European Region
+172,2011,80.73486306,European Region
+172,2012,80.48877374,European Region
+172,2013,79.95114994,European Region
+172,2014,78.84353641,European Region
+172,2015,77.53281802,European Region
+172,2016,78.07328881,European Region
+172,2017,78.81212408,European Region
+172,2018,78.84254979,European Region
+172,2019,77.76714116,European Region
+172,2020,78.48264204,European Region
+172,2021,78.15857983,European Region
+173,2000,98.17233939,African Region
+173,2001,98.23304578,African Region
+173,2002,98.29240703,African Region
+173,2003,98.26816544,African Region
+173,2004,98.1607325,African Region
+173,2005,98.0520943,African Region
+173,2006,98.02502974,African Region
+173,2007,97.84621954,African Region
+173,2008,97.51465528,African Region
+173,2009,97.06206408,African Region
+173,2010,96.4587273,African Region
+173,2011,95.46192613,African Region
+173,2012,94.75257147,African Region
+173,2013,94.02159595,African Region
+173,2014,93.25333598,African Region
+173,2015,92.87098584,African Region
+173,2016,92.51634644,African Region
+173,2017,92.05640583,African Region
+173,2018,91.87586822,African Region
+173,2019,91.57444996,African Region
+173,2020,91.23593096,African Region
+173,2021,90.98085328,African Region
+174,2000,81.50824882,Eastern Mediterranean Region
+174,2001,83.50718405,Eastern Mediterranean Region
+174,2002,82.31555499,Eastern Mediterranean Region
+174,2003,82.30709148,Eastern Mediterranean Region
+174,2004,80.91677834,Eastern Mediterranean Region
+174,2005,77.64042814,Eastern Mediterranean Region
+174,2006,76.39057562,Eastern Mediterranean Region
+174,2007,76.21431662,Eastern Mediterranean Region
+174,2008,74.54464685,Eastern Mediterranean Region
+174,2009,67.56952188,Eastern Mediterranean Region
+174,2010,63.79752121,Eastern Mediterranean Region
+174,2011,68.29487118,Eastern Mediterranean Region
+174,2012,76.10302987,Eastern Mediterranean Region
+174,2013,78.14661725,Eastern Mediterranean Region
+174,2014,76.81700986,Eastern Mediterranean Region
+174,2015,78.05232782,Eastern Mediterranean Region
+174,2016,77.72527133,Eastern Mediterranean Region
+174,2017,78.56148483,Eastern Mediterranean Region
+174,2018,78.26940776,Eastern Mediterranean Region
+174,2019,78.46826079,Eastern Mediterranean Region
+174,2020,77.73143128,Eastern Mediterranean Region
+174,2021,76.79499284,Eastern Mediterranean Region
+175,2000,97.79860419,African Region
+175,2001,97.71102266,African Region
+175,2002,97.70661963,African Region
+175,2003,97.53758178,African Region
+175,2004,97.45087955,African Region
+175,2005,97.28139769,African Region
+175,2006,97.19390644,African Region
+175,2007,96.94133824,African Region
+175,2008,96.85373134,African Region
+175,2009,96.77209375,African Region
+175,2010,96.52539177,African Region
+175,2011,96.19430221,African Region
+175,2012,95.86267787,African Region
+175,2013,95.44687028,African Region
+175,2014,95.19632189,African Region
+175,2015,94.77914538,African Region
+175,2016,94.61027908,African Region
+175,2017,94.35988716,African Region
+175,2018,94.19142794,African Region
+175,2019,93.97091377,African Region
+175,2020,93.78335377,African Region
+175,2021,93.57473697,African Region
+176,2000,95.27819669,African Region
+176,2001,94.93362913,African Region
+176,2002,94.74219061,African Region
+176,2003,94.55309999,African Region
+176,2004,94.27444719,African Region
+176,2005,94.00071279,African Region
+176,2006,93.75424943,African Region
+176,2007,93.52332953,African Region
+176,2008,93.25245808,African Region
+176,2009,93.11459714,African Region
+176,2010,92.62234673,African Region
+176,2011,92.00206026,African Region
+176,2012,91.22737373,African Region
+176,2013,91.16497496,African Region
+176,2014,90.77596193,African Region
+176,2015,88.98875083,African Region
+176,2016,89.01276225,African Region
+176,2017,88.51562585,African Region
+176,2018,88.17897569,African Region
+176,2019,87.75319717,African Region
+176,2020,87.3563851,African Region
+176,2021,86.98519542,African Region
+177,2000,93.43371381,Eastern Mediterranean Region
+177,2001,93.32374885,Eastern Mediterranean Region
+177,2002,93.2503872,Eastern Mediterranean Region
+177,2003,93.32657794,Eastern Mediterranean Region
+177,2004,93.18682131,Eastern Mediterranean Region
+177,2005,93.02403254,Eastern Mediterranean Region
+177,2006,93.2244755,Eastern Mediterranean Region
+177,2007,93.18837593,Eastern Mediterranean Region
+177,2008,92.40788696,Eastern Mediterranean Region
+177,2009,92.3365542,Eastern Mediterranean Region
+177,2010,92.07318253,Eastern Mediterranean Region
+177,2011,91.67048099,Eastern Mediterranean Region
+177,2012,91.31349796,Eastern Mediterranean Region
+177,2013,90.97043245,Eastern Mediterranean Region
+177,2014,90.2904218,Eastern Mediterranean Region
+177,2015,89.6963397,Eastern Mediterranean Region
+177,2016,89.18469615,Eastern Mediterranean Region
+177,2017,88.66603044,Eastern Mediterranean Region
+177,2018,88.39476465,Eastern Mediterranean Region
+177,2019,88.20240725,Eastern Mediterranean Region
+177,2020,88.34122307,Eastern Mediterranean Region
+177,2021,87.94770337,Eastern Mediterranean Region
+178,2000,50.83083272,Region of the Americas
+178,2001,46.55254334,Region of the Americas
+178,2002,37.0008143,Region of the Americas
+178,2003,42.50395621,Region of the Americas
+178,2004,48.83270145,Region of the Americas
+178,2005,52.23593527,Region of the Americas
+178,2006,52.83456752,Region of the Americas
+178,2007,52.66120015,Region of the Americas
+178,2008,52.95201033,Region of the Americas
+178,2009,51.43115203,Region of the Americas
+178,2010,53.32641971,Region of the Americas
+178,2011,53.09109093,Region of the Americas
+178,2012,55.04648923,Region of the Americas
+178,2013,55.50585375,Region of the Americas
+178,2014,57.58675721,Region of the Americas
+178,2015,57.1302743,Region of the Americas
+178,2016,56.65604647,Region of the Americas
+178,2017,56.04124422,Region of the Americas
+178,2018,56.31239689,Region of the Americas
+178,2019,56.10763913,Region of the Americas
+178,2020,55.83926184,Region of the Americas
+178,2021,55.5685564,Region of the Americas
+179,2000,83.30321407,European Region
+179,2001,82.93052354,European Region
+179,2002,82.80506744,European Region
+179,2003,82.59692116,European Region
+179,2004,82.38857846,European Region
+179,2005,82.0875534,European Region
+179,2006,82.13761803,European Region
+179,2007,82.09192745,European Region
+179,2008,81.88246293,European Region
+179,2009,81.83773393,European Region
+179,2010,81.79223729,European Region
+179,2011,81.55747008,European Region
+179,2012,81.5593556,European Region
+179,2013,81.18044059,European Region
+179,2014,80.6746148,European Region
+179,2015,80.44247962,European Region
+179,2016,79.83177426,European Region
+179,2017,79.36002569,European Region
+179,2018,78.96436799,European Region
+179,2019,78.19714641,European Region
+179,2020,77.92387783,European Region
+179,2021,77.45161452,European Region
+181,2000,94.10460437,Eastern Mediterranean Region
+181,2001,94.1855754,Eastern Mediterranean Region
+181,2002,93.94011236,Eastern Mediterranean Region
+181,2003,93.52006916,Eastern Mediterranean Region
+181,2004,92.94275453,Eastern Mediterranean Region
+181,2005,92.28058371,Eastern Mediterranean Region
+181,2006,90.90838823,Eastern Mediterranean Region
+181,2007,90.21611806,Eastern Mediterranean Region
+181,2008,89.02778553,Eastern Mediterranean Region
+181,2009,88.34162889,Eastern Mediterranean Region
+181,2010,87.35804687,Eastern Mediterranean Region
+181,2011,85.58809435,Eastern Mediterranean Region
+181,2012,84.58943522,Eastern Mediterranean Region
+181,2013,83.63994393,Eastern Mediterranean Region
+181,2014,82.62735909,Eastern Mediterranean Region
+181,2015,81.61478615,Eastern Mediterranean Region
+181,2016,80.6916514,Eastern Mediterranean Region
+181,2017,80.86291812,Eastern Mediterranean Region
+181,2018,80.2560318,Eastern Mediterranean Region
+181,2019,79.37615265,Eastern Mediterranean Region
+181,2020,78.80457104,Eastern Mediterranean Region
+181,2021,78.23695608,Eastern Mediterranean Region
+182,2000,88.76243221,South-East Asia Region
+182,2001,88.35973051,South-East Asia Region
+182,2002,87.87222637,South-East Asia Region
+182,2003,87.54948075,South-East Asia Region
+182,2004,87.06223179,South-East Asia Region
+182,2005,86.57404459,South-East Asia Region
+182,2006,86.16596753,South-East Asia Region
+182,2007,85.67618315,South-East Asia Region
+182,2008,85.26838129,South-East Asia Region
+182,2009,84.860806,South-East Asia Region
+182,2010,84.22498488,South-East Asia Region
+182,2011,83.21479163,South-East Asia Region
+182,2012,82.63708715,South-East Asia Region
+182,2013,82.16802486,South-East Asia Region
+182,2014,81.05922588,South-East Asia Region
+182,2015,80.25469974,South-East Asia Region
+182,2016,80.15674413,South-East Asia Region
+182,2017,79.32905434,South-East Asia Region
+182,2018,78.61467741,South-East Asia Region
+182,2019,77.99760695,South-East Asia Region
+182,2020,77.35546367,South-East Asia Region
+182,2021,76.71835653,South-East Asia Region
+183,2000,96.86928066,African Region
+183,2001,96.78150389,African Region
+183,2002,96.68898949,African Region
+183,2003,96.51474205,African Region
+183,2004,96.34118687,African Region
+183,2005,96.16720167,African Region
+183,2006,95.91300438,African Region
+183,2007,95.65718276,African Region
+183,2008,95.40406022,African Region
+183,2009,95.47671236,African Region
+183,2010,95.1306879,African Region
+183,2011,94.71226119,African Region
+183,2012,94.3755817,African Region
+183,2013,94.28648749,African Region
+183,2014,93.8672749,African Region
+183,2015,93.77804974,African Region
+183,2016,93.19379326,African Region
+183,2017,92.6095246,African Region
+183,2018,92.43784799,African Region
+183,2019,92.19272556,African Region
+183,2020,91.94756427,African Region
+183,2021,91.70237412,African Region
+184,2000,79.47695617,Region of the Americas
+184,2001,79.39973952,Region of the Americas
+184,2002,79.30422837,Region of the Americas
+184,2003,78.99303208,Region of the Americas
+184,2004,78.39892924,Region of the Americas
+184,2005,77.29794715,Region of the Americas
+184,2006,77.01569829,Region of the Americas
+184,2007,75.41106104,Region of the Americas
+184,2008,75.06248632,Region of the Americas
+184,2009,75.14264774,Region of the Americas
+184,2010,76.64273673,Region of the Americas
+184,2011,76.53965491,Region of the Americas
+184,2012,76.21819643,Region of the Americas
+184,2013,75.74503128,Region of the Americas
+184,2014,75.3340941,Region of the Americas
+184,2015,74.68070346,Region of the Americas
+184,2016,73.94059253,Region of the Americas
+184,2017,73.15368882,Region of the Americas
+184,2018,72.86615809,Region of the Americas
+184,2019,72.48624315,Region of the Americas
+184,2020,72.27576592,Region of the Americas
+184,2021,71.81454566,Region of the Americas
+185,2000,98.21245229,African Region
+185,2001,98.20672149,African Region
+185,2002,98.28346143,African Region
+185,2003,98.27769745,African Region
+185,2004,98.18942792,African Region
+185,2005,98.10113683,African Region
+185,2006,98.09533433,African Region
+185,2007,97.92457998,African Region
+185,2008,97.58885381,African Region
+185,2009,97.25298804,African Region
+185,2010,96.91779538,African Region
+185,2011,96.16990922,African Region
+185,2012,95.66949125,African Region
+185,2013,95.16897165,African Region
+185,2014,94.33800829,African Region
+185,2015,93.50701332,African Region
+185,2016,93.08839969,African Region
+185,2017,92.58630883,African Region
+185,2018,92.41487769,African Region
+185,2019,92.24274075,African Region
+185,2020,92.07192527,African Region
+185,2021,91.90097489,African Region
+186,2000,69.36978989,Western Pacific Region
+186,2001,71.18543856,Western Pacific Region
+186,2002,73.26342205,Western Pacific Region
+186,2003,76.53143529,Western Pacific Region
+186,2004,76.83884749,Western Pacific Region
+186,2005,75.71406428,Western Pacific Region
+186,2006,75.77984718,Western Pacific Region
+186,2007,74.97724658,Western Pacific Region
+186,2008,72.63942909,Western Pacific Region
+186,2009,71.83938004,Western Pacific Region
+186,2010,70.95102199,Western Pacific Region
+186,2011,72.12282708,Western Pacific Region
+186,2012,71.29800507,Western Pacific Region
+186,2013,71.21372242,Western Pacific Region
+186,2014,68.96006927,Western Pacific Region
+186,2015,68.84431327,Western Pacific Region
+186,2016,68.71376045,Western Pacific Region
+186,2017,68.63253671,Western Pacific Region
+186,2018,67.93312274,Western Pacific Region
+186,2019,67.7668564,Western Pacific Region
+186,2020,66.92335389,Western Pacific Region
+186,2021,66.0259216,Western Pacific Region
+187,2000,98.49911646,African Region
+187,2001,98.41171595,African Region
+187,2002,98.32423587,African Region
+187,2003,98.31909506,African Region
+187,2004,98.23152443,African Region
+187,2005,98.22649485,African Region
+187,2006,98.13898421,African Region
+187,2007,97.88632111,African Region
+187,2008,97.79866968,African Region
+187,2009,97.62851585,African Region
+187,2010,97.54090481,African Region
+187,2011,97.28827981,African Region
+187,2012,97.11821415,African Region
+187,2013,97.03058774,African Region
+187,2014,96.86045533,African Region
+187,2015,96.52527715,African Region
+187,2016,96.51991503,African Region
+187,2017,96.34966201,African Region
+187,2018,96.17939559,African Region
+187,2019,96.05045007,African Region
+187,2020,95.92135306,African Region
+187,2021,95.79161737,African Region
+188,2000,97.94065425,African Region
+188,2001,97.96296723,African Region
+188,2002,97.86406515,African Region
+188,2003,97.64679319,African Region
+188,2004,97.30036339,African Region
+188,2005,97.35759494,African Region
+188,2006,97.43331658,African Region
+188,2007,97.43778116,African Region
+188,2008,97.35442003,African Region
+188,2009,97.60408189,African Region
+188,2010,97.52045392,African Region
+188,2011,97.34800595,African Region
+188,2012,97.34496543,African Region
+188,2013,97.27640335,African Region
+188,2014,97.16629369,African Region
+188,2015,97.16228961,African Region
+188,2016,96.92260409,African Region
+188,2017,96.75371688,African Region
+188,2018,96.5848091,African Region
+188,2019,96.50752665,African Region
+188,2020,96.43022457,African Region
+188,2021,96.35290327,African Region
+189,2000,98.23093009,African Region
+189,2001,98.14945807,African Region
+189,2002,98.06126758,African Region
+189,2003,97.9546448,African Region
+189,2004,97.79817268,African Region
+189,2005,97.57627948,African Region
+189,2006,97.38205727,African Region
+189,2007,97.26797783,African Region
+189,2008,97.20708612,African Region
+189,2009,96.98572379,African Region
+189,2010,96.81983918,African Region
+189,2011,96.48232219,African Region
+189,2012,96.12841645,African Region
+189,2013,95.95896234,African Region
+189,2014,95.53754349,African Region
+189,2015,95.12109595,African Region
+189,2016,95.10421289,African Region
+189,2017,94.76030489,African Region
+189,2018,94.49017187,African Region
+189,2019,94.32200263,African Region
+189,2020,94.15899272,African Region
+189,2021,94.00718605,African Region
+190,2000,94.43959208,Region of the Americas
+190,2001,94.34606427,Region of the Americas
+190,2002,94.26718558,Region of the Americas
+190,2003,94.04607293,Region of the Americas
+190,2004,93.59149974,Region of the Americas
+190,2005,93.22035531,Region of the Americas
+190,2006,92.66122926,Region of the Americas
+190,2007,91.76326839,Region of the Americas
+190,2008,89.84229157,Region of the Americas
+190,2009,88.17073832,Region of the Americas
+190,2010,85.91015487,Region of the Americas
+190,2011,84.63023283,Region of the Americas
+190,2012,84.09262192,Region of the Americas
+190,2013,84.01273818,Region of the Americas
+190,2014,85.19672057,Region of the Americas
+190,2015,84.77141324,Region of the Americas
+190,2016,83.70410412,Region of the Americas
+190,2017,84.41055161,Region of the Americas
+190,2018,84.41928271,Region of the Americas
+190,2019,84.17717312,Region of the Americas
+190,2020,83.99703026,Region of the Americas
+190,2021,83.13009498,Region of the Americas
+191,2000,89.07778821,European Region
+191,2001,88.80172058,European Region
+191,2002,88.27810416,European Region
+191,2003,87.67190895,European Region
+191,2004,87.31300377,European Region
+191,2005,86.95403024,European Region
+191,2006,86.75983024,European Region
+191,2007,86.48343832,European Region
+191,2008,86.43694971,European Region
+191,2009,86.46610298,European Region
+191,2010,86.69583846,European Region
+191,2011,86.28625183,European Region
+191,2012,86.41999641,European Region
+191,2013,86.39263966,European Region
+191,2014,86.52437356,European Region
+191,2015,86.6625832,European Region
+191,2016,86.05427359,European Region
+191,2017,85.78167205,European Region
+191,2018,85.42175644,European Region
+191,2019,85.22169338,European Region
+191,2020,85.0213784,European Region
+191,2021,84.82120518,European Region
+192,2000,84.32529714,Region of the Americas
+192,2001,84.37716942,Region of the Americas
+192,2002,85.56979225,Region of the Americas
+192,2003,83.72469243,Region of the Americas
+192,2004,84.33680186,Region of the Americas
+192,2005,83.39843127,Region of the Americas
+192,2006,83.0372851,Region of the Americas
+192,2007,83.83072876,Region of the Americas
+192,2008,83.55107979,Region of the Americas
+192,2009,82.36469512,Region of the Americas
+192,2010,81.98128389,Region of the Americas
+192,2011,81.18100969,Region of the Americas
+192,2012,79.79773371,Region of the Americas
+192,2013,81.561084,Region of the Americas
+192,2014,80.0227332,Region of the Americas
+192,2015,81.1775328,Region of the Americas
+192,2016,80.75275048,Region of the Americas
+192,2017,81.95399089,Region of the Americas
+192,2018,82.57771417,Region of the Americas
+192,2019,82.54143866,Region of the Americas
+192,2020,82.50501058,Region of the Americas
+192,2021,82.46842914,Region of the Americas
+193,2000,91.3696139,Eastern Mediterranean Region
+193,2001,91.26304158,Eastern Mediterranean Region
+193,2002,90.73876087,Eastern Mediterranean Region
+193,2003,90.35115271,Eastern Mediterranean Region
+193,2004,89.56403244,Eastern Mediterranean Region
+193,2005,89.0145336,Eastern Mediterranean Region
+193,2006,88.60693054,Eastern Mediterranean Region
+193,2007,87.93601753,Eastern Mediterranean Region
+193,2008,87.41908528,Eastern Mediterranean Region
+193,2009,86.70472053,Eastern Mediterranean Region
+193,2010,86.5666494,Eastern Mediterranean Region
+193,2011,85.55719309,Eastern Mediterranean Region
+193,2012,85.46724369,Eastern Mediterranean Region
+193,2013,84.64298287,Eastern Mediterranean Region
+193,2014,84.39559225,Eastern Mediterranean Region
+193,2015,83.57098373,Eastern Mediterranean Region
+193,2016,83.73454646,Eastern Mediterranean Region
+193,2017,83.30898894,Eastern Mediterranean Region
+193,2018,83.01122645,Eastern Mediterranean Region
+193,2019,82.3703267,Eastern Mediterranean Region
+193,2020,81.95116661,Eastern Mediterranean Region
+193,2021,81.42131518,Eastern Mediterranean Region
