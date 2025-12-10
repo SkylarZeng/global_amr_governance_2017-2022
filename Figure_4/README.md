@@ -1,6 +1,6 @@
 # **Figure 4 - DID Analysis**
-- **Purpose:**: This folder contains the code, input data, and output graphs used to generate Figure 4 in the project.
-- **Primary software:**: Stata (the provided scripts are Stata `.do` files and graphs are Stata `.gph` files).
+- **Purpose:** This folder contains the code, input data, and output graphs used to generate Figure 4 in the project.
+- **Primary software:** Stata (the provided scripts are Stata `.do` files and graphs are Stata `.gph` files).
 
 ---
 
