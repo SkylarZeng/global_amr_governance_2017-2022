@@ -17,12 +17,22 @@ A Reproducible Framework for Evaluating National AMR Action Plans and Governance
 
 This repository contains the full analytical workflow organized by figure/analysis:
 
-- **`Figure_1/`** — NAP launch map visualization
-- **`Figure_2/`** — Governance heatmaps and trend analyses
-- **`Figure_3/`** — Additional analyses
-- **`Figure_4/`** — Difference-in-differences event studies
-- **`Figure_5/`** — Trajectory and latent class growth modeling
-- **`Supplementary/`** — Supplementary analyses including data imputation and robustness tests
+```
+global_amr_governance_2017-2022/
+├── LICENSE
+├── README.md
+│
+├── Figure_1/                    # NAP launch map visualization
+├── Figure_2/                    # Governance heatmaps and trend analyses
+├── Figure_3/                    # Regional trends in AMU and AMR prevalence scores, 2000–2021
+├── Figure_4/                    # Difference-in-differences event studies
+├── Figure_5/                    # Trajectory and latent class growth modeling
+│
+└── Supplementary/               # Supplementary analyses and sensitivity/robustness test
+    ├── data_imputation/
+    ├── DID_sensitivity_robustness_test/
+    └── panel_model_selection_and_pandemic-perid_robustness_analysis/
+```
 
 Each folder contains its own `README.md` with detailed information about code, data, and reproduction instructions.
 
