@@ -60,9 +60,140 @@
 - **Graph files:**: `.gph` files located in `output/` are Stata graph files and can be re-opened in Stata or exported for publication.
 - **Intermediate output:**: Any additional tables or temporary files created by the `.do` scripts will be created in the working directory or as specified in the scripts.
 
-**Contact / Further help**
-- **Author / Maintainer:**: If you need help reproducing Figure 4 or running the do-files, please contact the project maintainer or check the comments at the top of each `.do` file for more details.
+# DID Sensitivity and Robustness Analysis — Figure 4
 
-**Quick checklist**
-- **To reproduce:**: `cd` to the `Figure_4` folder, open Stata, run `do "code/AMR_DID.do"` (and the variant do-files as needed), then open the generated `.gph` files in `output/`.
-- **If errors occur:**: Inspect the top of the `.do` files for required packages and install them; ensure dataset names in `data/` are unchanged.
+## Supplementary Figures (Figure 4 panels)
+
+This folder contains the Stata code, input data, and generated figures used for event-study Difference-in-Differences (DID) sensitivity and robustness analyses that produce Figure 4 and associated panels.
+
+---
+
+## Folder structure
+
+```
+.
+├── code/
+│   ├── AMR_DID.do
+│   ├── AMR_DID_amrgbdAS.do
+│   ├── AMR_DID_amrgbdAT.do
+│   └── AMU_DID.do
+├── data/
+│   ├── treatment_AMR.dta
+│   ├── treatment_amrgbdAS.dta
+│   ├── treatment_amrgbdAT.dta
+│   └── treatment_AMU.dta
+├── output/
+│   └── [Stata graphs & exported figures]
+└── README.md
+```
+
+## Key files
+
+- `code/`: Stata `.do` files implementing event-study DID estimators and producing the figures in `output/`.
+- `data/`: Stata `.dta` datasets used by the `.do` scripts. **Note:** identifiers have been masked (see Data masking).
+- `output/`: Saved Stata graphs (`.gph`) and exported images/PDFs used for publication.
+
+## Outcomes and scripts
+
+- **AMR** — Antimicrobial resistance prevalence: `code/AMR_DID.do`
+- **AMU** — Antimicrobial use: `code/AMU_DID.do`
+- **amrgbdAS** — AMR GBD (acute/subacute): `code/AMR_DID_amrgbdAS.do`
+- **amrgbdAT** — AMR GBD (treated): `code/AMR_DID_amrgbdAT.do`
+
+Each script follows the same workflow: data preparation, generation of event-time indicators, three complementary estimators, and combined plotting and export.
+
+---
+
+## Methodological approach
+
+All scripts report three complementary DID estimators for robustness:
+
+- **DID-2S (`did2s`)** — two-stage estimator for staggered adoption (Gardner, 2021).
+- **Stacked event-study (`stackedev`)** — cohort stacking approach (Cengiz et al., 2019).
+- **Traditional TWFE OLS (`reghdfe`)** — two-way fixed effects with cluster-robust standard errors.
+
+Outputs for each method (coefficient matrices and variance matrices) are combined into a single event-study visualization and exported for publication.
+
+---
+
+## Data requirements and structure
+
+Each `.dta` file should contain at least:
+- `i`: unit identifier (country/region; note masked in distributed datasets)
+- `t`: time period (year)
+- `D`: treatment indicator (binary)
+- outcome variable (scripts rename it to `Y` at start)
+- covariates as required by specification (e.g., `X1`..`X10`)
+- `treat_year` or `Ei` (cohort adoption year) where applicable
+
+### Data masking
+
+To protect sensitive identifiers, the `iso3` column in every `.dta` file under `data/` has been replaced with random numeric identifiers. The datasets therefore do not contain real country codes. Document this masking in any data availability or methods statements accompanying results.
+
+---
+
+## Output files (present in `output/`)
+
+Typical outputs produced by the scripts (existing files at time of editing):
+- `AMR_event_study_combined.gph`, `AMR_event_study_combined.png`, `AMR_event_study_combined.svg`
+- `amrgbdAS_event_study_combined.gph`, `amrgbdAS_event_study_combined.png`, `amrgbdAS_event_study_combined.svg`
+- `amrgbdAT_event_study_combined.gph`, `amrgbdAT_event_study_combined.png`, `amrgbdAT_event_study_combined.svg`
+- `AMU_event_study_combined.gph`, `AMU_event_study_combined.png`, `AMU_event_study_combined.svg`
+- `fig4A_final.pdf`  (final revised file)
+- `fig4B_final.pdf`  (final revised file)
+- `fig4C_final.pdf`  (final revised file)
+- `fig4D_final.pdf`  (final revised file)
+
+The `fig4*_final.pdf` files are the final revised publication-ready panels for Figure 4 (A–D).
+
+---
+
+## Software requirements
+
+- **Stata:** tested on `Stata/SE 18.0`.
+- **Packages used (install if needed):** `reghdfe`, `did2s`, `stackedev`, `event_plot`.
+
+Install in Stata:
+```stata
+ssc install reghdfe, replace
+ssc install did2s, replace
+ssc install stackedev, replace
+ssc install event_plot, replace
+```
+
+---
+
+## Reproducing the results
+
+From within Stata set the working directory to this folder and run the `.do` scripts. Example:
+
+```stata
+cd "/Users/skylar/Desktop/GOHIAMR/Data & code availability/Figure_4"
+do code/AMR_DID.do
+```
+
+To run all scripts in sequence:
+
+```stata
+do code/AMR_DID.do
+do code/AMR_DID_amrgbdAS.do
+do code/AMR_DID_amrgbdAT.do
+do code/AMU_DID.do
+```
+
+Notes:
+- Ensure `data/` contains the expected `.dta` files. Update relative paths in `.do` files if your directory differs.
+
+---
+
+## Reporting guidance
+
+- Present event-time coefficients with 95% confidence intervals for all three methods.
+- Inspect pre-treatment leads for evidence of parallel trends; leads should be statistically insignificant.
+- Report robustness checks (COVID-only, exclude 2020–2021, narrower windows) where applicable.
+
+---
+
+## Contact
+
+For questions on code, data, or reproducibility, contact the analysis team or the manuscript corresponding author.
