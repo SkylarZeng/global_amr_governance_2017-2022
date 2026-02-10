@@ -3,11 +3,11 @@
 * Purpose: Estimate event-study coefficients using DID-2S,
 *          stacked DiD (stackedev), and TWFE OLS for the
 *          amrgbdAT specification.
+* Author: Skylar (Yige) Zeng
 * Data: treatment_amrgbdAT.dta
 * Output: AMR/amrgbdAT event-study graphs
 * Stata: Stata/SE 18.0
 * References: Gardner (2021); Cengiz et al. (2019)
-* Notes: Publication-style English comments and headers
 * ------------------------------------------------------------
 
 * Install required user-written packages (uncomment to install)
