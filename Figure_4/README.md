@@ -61,11 +61,11 @@ Figure_4/
 - **Stata version:**: Scripts were developed and tested on `Stata/SE 18.0`.
 - **Packages:**: The do-files may depend on user-written packages. Check the top of each `.do` file for `ssc install` or `net install` commands and run them if required.
 - **Paths:**: The do-files assume relative paths (e.g., `code/` and `data/`). Ensure Stata's working directory is the `Figure_4` folder or update paths inside the `.do` files.
-- **Data use:**: The `data/` folder contains the Stata datasets used to generate the figures. Ensure you have rights to use and share these datasets according to your project's data policy.
+- **Data use:**: The `data/` folder contains the Stata datasets used to generate the figures. 
 
 ## **Additional Notes**
 - **Final revised files:**: `fig4A_final.pdf`, `fig4B_final.pdf`, `fig4C_final.pdf`, and `fig4D_final.pdf` are the final revised versions for Figure 4 panels A–D.
-- **Data masking:**: The `iso3` column in each `.dta` file in the `data/` folder was replaced with random numbers to avoid revealing sensitive country identifiers. The datasets in `data/` therefore contain masked country identifiers and cannot be used to identify countries. Document this masking in any data availability statements or methods descriptions when sharing results.
+- **Data masking:**: The `iso3` column in each `.dta` file in the `data/` folder was replaced with random numbers to avoid revealing sensitive country identifiers. The datasets in `data/` therefore contain masked country identifiers and cannot be used to identify countries. 
 
 
 ## **Files Produced**
