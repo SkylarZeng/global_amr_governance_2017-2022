@@ -69,7 +69,7 @@ Manuscript under revision, 2025.
 If you use this repository, please cite the associated study (details added after publication).  
 A placeholder BibTeX entry is provided:
 ```
-@article{chen2025amrgovernance,
+@article{chen2026amrgovernance,
   title={Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update},
   author={Chen, Weiye and Zeng, Yige and Zheng, Jinxin and Wang, Jing and Gu, Wei and Li, Min and Cheng, Zile and Qian, Jing and Zhang, Xiaoxi and Kabali, Emmanuel and Lv, Chao and Chen, Yiwen and Yang, Guangrui and Zhou, Nan and Tan, Xiao and Zhu, Chendi and Tun, Hein Min and Gilani, Mashkoor Mohsin and Rahman, Tanvir and Zhou, Zhemin and Xiao, Yonghong and Chen, Hong and Shi, Chunlei and Bergquist, Robert and Fitzgerald, J. Ross and Chen, Sheng and Chang, Yunfu and Wang, Zhaojun and Zhou, Xiaonong and Guo, Xiaokui and Utzinger, Jürg and Song, Junxia and Zhu, Yongzhang},
   year={2026},
