@@ -2,11 +2,11 @@
 * Title: AMU event-study (AMU_DID.do)
 * Purpose: Estimate event-study coefficients using DID-2S,
 *          stacked DiD (stackedev), and TWFE OLS for the AMU outcome.
+* Author: Skylar (Yige) Zeng
 * Data: ../data/treatment_AMU.dta
 * Output: ../output/AMU_event_study_combined.{gph,png,svg}
 * Stata: Stata/SE 18.0
 * References: Gardner (2021); Cengiz et al. (2019)
-* Notes: Publication-style English comments and headers
 * ------------------------------------------------------------
 
 * Install required user-written packages (uncomment to install)
