@@ -1,7 +1,7 @@
 # Global AMR Governance Analysis
 A Reproducible Framework for Evaluating National AMR Action Plans and Governance Performance (2017–2022)
 
-**Study on global antimicrobial resistance (AMR) governance across 193 countries, integrating policy documents, WHO monitoring systems, agricultural inputs, and AMR burden data to evaluate governance effectiveness and associated health outcomes.**
+**Study on global antimicrobial resistance (AMR) governance across 193 countries and territories, integrating policy documents, WHO monitoring systems, agricultural inputs, and AMR burden data to evaluate governance effectiveness and associated health outcomes.**
 
 ---
 
