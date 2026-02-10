@@ -2,11 +2,11 @@
 * Title: AMR event-study (AMR_DID.do)
 * Purpose: Estimate event-study coefficients using DID-2S,
 *          stacked DiD (stackedev), and TWFE OLS.
+* Author: Skylar (Yige) Zeng
 * Data: treatment_amr.dta
 * Output: AMR_event_study_combined.{gph,png,svg}
 * Stata: Stata/SE 18.0
 * References: Gardner (2021); Cengiz et al. (2019)
-* Notes: Comments are written in publication-style English
 * ------------------------------------------------------------
 
 * Install required user-written packages (uncomment to install)
