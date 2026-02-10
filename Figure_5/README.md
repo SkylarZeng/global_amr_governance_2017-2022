@@ -101,7 +101,7 @@ The analysis consists of three main components:
 
 ## Data Masking
 
-**Data masking:** The `iso3` and `country` columns in each `.dta` file in the `data/` folder were replaced with random numbers to avoid revealing sensitive country identifiers. The datasets in `data/` therefore contain masked country identifiers and cannot be used to identify countries. Document this masking in any data availability statements or methods descriptions when sharing results.
+**Data masking:** The `iso3` and `country` columns in each `.dta` file in the `data/` folder were replaced with random numbers to avoid revealing sensitive country identifiers. The datasets in `data/` therefore contain masked country identifiers and cannot be used to identify countries. 
 
 ## Contact
 
