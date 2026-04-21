@@ -61,19 +61,24 @@ conda activate amr-governance
 ## Citation
 
 If you use this repository, please cite our study:
-
-Chen W, Zeng Y, Zheng J, Wang J, Gu W, Li M, et al.  
-**Informing the 2026 update of the Global Action Plan on antimicrobial resistance: a longitudinal evaluation of governance across 193 countries.**  
-Manuscript under revision, 2025.
+Chen W, Zeng Y, Zheng J, et al.
+Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update.
+Nature Medicine 32, 1362–1373 (2026). https://doi.org/10.1038/s41591-026-04257-1
 
 If you use this repository, please cite the associated study (details added after publication).  
 A placeholder BibTeX entry is provided:
 ```
 @article{chen2026amrgovernance,
   title={Evaluation of antimicrobial resistance governance across 193 countries to inform the 2026 Global Action Plan update},
-  author={Chen, Weiye and Zeng, Yige and Zheng, Jinxin and Wang, Jing and Gu, Wei and Li, Min and Cheng, Zile and Qian, Jing and Zhang, Xiaoxi and Kabali, Emmanuel and Lv, Chao and Chen, Yiwen and Yang, Guangrui and Zhou, Nan and Tan, Xiao and Zhu, Chendi and Tun, Hein Min and Gilani, Mashkoor Mohsin and Rahman, Tanvir and Zhou, Zhemin and Xiao, Yonghong and Chen, Hong and Shi, Chunlei and Bergquist, Robert and Fitzgerald, J. Ross and Chen, Sheng and Chang, Yunfu and Wang, Zhaojun and Zhou, Xiaonong and Guo, Xiaokui and Utzinger, Jürg and Song, Junxia and Zhu, Yongzhang},
+  author={Chen, Weiye and Zeng, Yige and Zheng, Jinxin and Wang, Jing and Gu, Wei and Li, Min and Cheng, Zile and Qian, Jing and Zhang, Xiaoxi and Kabali, Emmanuel and Lv, Chao and Chen, Yiwen and Yang, Guangrui and Zhou, Nan and Tan, Xiao and Zhu, Chendi and Tun, Hein Min and Gilani, Mashkoor Mohsin and Rahman, Tanvir and Zhou, Zhemin and Xiao, Yonghong and Chen, Hong and Shi, Chunlei and Bergquist, Robert and Fitzgerald, J. Ross and Chen, Sheng and Chang, Yunfu and Wang, Zhaojun and Zhou, Xiaonong and Guo, Xiaokui and Utzinger, J{\"u}rg and Song, Junxia and Zhu, Yongzhang},
+  journal={Nature Medicine},
+  volume={32},
+  pages={1362--1373},
   year={2026},
-  note={Manuscript accepted. Please update with journal details once published.}
+  month={April},
+  published={2026-03-03},
+  doi={10.1038/s41591-026-04257-1},
+  url={https://doi.org/10.1038/s41591-026-04257-1}
 }
 ```
 ---
